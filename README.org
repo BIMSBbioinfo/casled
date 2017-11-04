@@ -1,0 +1,43 @@
+* Layout
+
+#+BEGIN_EXAMPLE
+/firmware
+/pcb
+  /footprints
+/schematics
+  /symbols
+#+END_EXAMPLE
+
+* Software
+
+We use the gEDA/gaf suite of tools, most importantly =gschem= for editing schematics and =pcb= for the layout of the circuit boards.
+
+We also use the AVR toolchain to build the firmware binaries and upload them to the micro-controller.
+
+You can get these applications through GNU Guix:
+
+#+BEGIN_SRC bash
+guix package -i gschem pcb avr-toolchain
+#+END_SRC
+
+* Footprints and symbols
+
+The footprints and symbols were downloaded directly from Maxim in the
+=bxl= format.  gEDA software does not read the =bxl= format natively,
+so it had to be converted to =.sym= (for schematic symbols) and =.fp=
+(for PCB footprints).  This can be done with translate2geda [1].
+
+[1]: https://github.com/erichVK5/translate2geda
+
+    java translate2geda max6969awg.bxl
+
+This results in these four files:
+
+    21-0042B_24.fp
+    21-0042B_24-L.fp
+    21-0042B_24-M.fp
+    MAX6969AWG.sym
+
+The =.fp= files were moved to =./pcb/footprints= and the =.sym= file to =./schematics/symbols=.
+
+We now only need to tell =gschem= about the symbols and =pcb= about the footprints.  Run =gschem -s gschemrc cas13-led.sch= from the =schematics= directory to evaluate the code in =gschemrc= before opening up the schematic file =cas13-led.scm=.  The =gschemrc= adds the =schematics/symbols= directory to the component library.

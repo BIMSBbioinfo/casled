@@ -1,0 +1,2 @@
+m4-pcbdir /home/rekado/.guix-profile/share/pcb/m4
+schematics ../schematics/cas13-led.sch
