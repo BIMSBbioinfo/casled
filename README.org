@@ -38,6 +38,8 @@ This results in these four files:
     21-0042B_24-M.fp
     MAX6969AWG.sym
 
+I created the footprint for the XLamp LEDs from scratch according to the recommendations in the datasheet.
+
 The =.fp= files were moved to =./pcb/footprints= and the =.sym= file to =./schematics/symbols=.
 
 We now only need to tell =gschem= about the symbols and =pcb= about the footprints.  Run =gschem -s gschemrc cas13-led.sch= from the =schematics= directory to evaluate the code in =gschemrc= before opening up the schematic file =cas13-led.scm=.  The =gschemrc= adds the =schematics/symbols= directory to the component library.
