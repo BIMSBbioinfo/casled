@@ -110,7 +110,7 @@ N 49200 44000 49200 50000 4
 N 51500 44500 51500 50000 4
 N 53800 44500 53800 50000 4
 N 56000 44500 56000 50000 4
-N 49200 44500 60400 44500 4
+N 49200 44500 74100 44500 4
 C 57300 47100 1 0 0 led-2.sym
 {
 T 57400 47700 5 10 0 0 0 0 1
@@ -546,3 +546,495 @@ device=CONNECTOR_8
 T 59200 50650 5 10 0 0 0 6 1
 footprint=SIP8N
 }
+C 64300 47100 1 0 0 led-2.sym
+{
+T 64400 47700 5 10 0 0 0 0 1
+device=LED
+T 64300 47100 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 47400 5 10 1 1 0 0 1
+refdes=D64
+}
+C 64300 47500 1 0 0 led-2.sym
+{
+T 64400 48100 5 10 0 0 0 0 1
+device=LED
+T 64300 47500 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 47800 5 10 1 1 0 0 1
+refdes=D63
+}
+C 62000 47100 1 0 0 led-2.sym
+{
+T 62100 47700 5 10 0 0 0 0 1
+device=LED
+T 62000 47100 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 47400 5 10 1 1 0 0 1
+refdes=D56
+}
+C 62000 47500 1 0 0 led-2.sym
+{
+T 62100 48100 5 10 0 0 0 0 1
+device=LED
+T 62000 47500 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 47800 5 10 1 1 0 0 1
+refdes=D55
+}
+C 68800 47100 1 0 0 led-2.sym
+{
+T 68900 47700 5 10 0 0 0 0 1
+device=LED
+T 68800 47100 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 47400 5 10 1 1 0 0 1
+refdes=D80
+}
+C 68800 47500 1 0 0 led-2.sym
+{
+T 68900 48100 5 10 0 0 0 0 1
+device=LED
+T 68800 47500 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 47800 5 10 1 1 0 0 1
+refdes=D79
+}
+C 66600 47100 1 0 0 led-2.sym
+{
+T 66700 47700 5 10 0 0 0 0 1
+device=LED
+T 66600 47100 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 47400 5 10 1 1 0 0 1
+refdes=D72
+}
+C 66600 47500 1 0 0 led-2.sym
+{
+T 66700 48100 5 10 0 0 0 0 1
+device=LED
+T 66600 47500 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 47800 5 10 1 1 0 0 1
+refdes=D71
+}
+C 71000 47100 1 0 0 led-2.sym
+{
+T 71100 47700 5 10 0 0 0 0 1
+device=LED
+T 71000 47100 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 47400 5 10 1 1 0 0 1
+refdes=D88
+}
+C 71000 47500 1 0 0 led-2.sym
+{
+T 71100 48100 5 10 0 0 0 0 1
+device=LED
+T 71000 47500 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 47800 5 10 1 1 0 0 1
+refdes=D87
+}
+C 62000 48700 1 0 0 led-2.sym
+{
+T 62100 49300 5 10 0 0 0 0 1
+device=LED
+T 62000 48700 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 49000 5 10 1 1 0 0 1
+refdes=D52
+}
+C 62000 48300 1 0 0 led-2.sym
+{
+T 62100 48900 5 10 0 0 0 0 1
+device=LED
+T 62000 48300 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 48600 5 10 1 1 0 0 1
+refdes=D53
+}
+C 62000 49100 1 0 0 led-2.sym
+{
+T 62100 49700 5 10 0 0 0 0 1
+device=LED
+T 62000 49100 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 49400 5 10 1 1 0 0 1
+refdes=D51
+}
+C 62000 47900 1 0 0 led-2.sym
+{
+T 62100 48500 5 10 0 0 0 0 1
+device=LED
+T 62000 47900 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 48200 5 10 1 1 0 0 1
+refdes=D54
+}
+C 64300 48700 1 0 0 led-2.sym
+{
+T 64400 49300 5 10 0 0 0 0 1
+device=LED
+T 64300 48700 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 49000 5 10 1 1 0 0 1
+refdes=D60
+}
+C 64300 48300 1 0 0 led-2.sym
+{
+T 64400 48900 5 10 0 0 0 0 1
+device=LED
+T 64300 48300 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 48600 5 10 1 1 0 0 1
+refdes=D61
+}
+C 64300 49100 1 0 0 led-2.sym
+{
+T 64400 49700 5 10 0 0 0 0 1
+device=LED
+T 64300 49100 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 49400 5 10 1 1 0 0 1
+refdes=D59
+}
+C 64300 47900 1 0 0 led-2.sym
+{
+T 64400 48500 5 10 0 0 0 0 1
+device=LED
+T 64300 47900 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 48200 5 10 1 1 0 0 1
+refdes=D62
+}
+C 66600 48700 1 0 0 led-2.sym
+{
+T 66700 49300 5 10 0 0 0 0 1
+device=LED
+T 66600 48700 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 49000 5 10 1 1 0 0 1
+refdes=D68
+}
+C 66600 48300 1 0 0 led-2.sym
+{
+T 66700 48900 5 10 0 0 0 0 1
+device=LED
+T 66600 48300 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 48600 5 10 1 1 0 0 1
+refdes=D69
+}
+C 66600 49100 1 0 0 led-2.sym
+{
+T 66700 49700 5 10 0 0 0 0 1
+device=LED
+T 66600 49100 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 49400 5 10 1 1 0 0 1
+refdes=D67
+}
+C 66600 47900 1 0 0 led-2.sym
+{
+T 66700 48500 5 10 0 0 0 0 1
+device=LED
+T 66600 47900 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 48200 5 10 1 1 0 0 1
+refdes=D70
+}
+C 68800 48700 1 0 0 led-2.sym
+{
+T 68900 49300 5 10 0 0 0 0 1
+device=LED
+T 68800 48700 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 49000 5 10 1 1 0 0 1
+refdes=D76
+}
+C 68800 48300 1 0 0 led-2.sym
+{
+T 68900 48900 5 10 0 0 0 0 1
+device=LED
+T 68800 48300 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 48600 5 10 1 1 0 0 1
+refdes=D77
+}
+C 68800 49100 1 0 0 led-2.sym
+{
+T 68900 49700 5 10 0 0 0 0 1
+device=LED
+T 68800 49100 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 49400 5 10 1 1 0 0 1
+refdes=D75
+}
+C 68800 47900 1 0 0 led-2.sym
+{
+T 68900 48500 5 10 0 0 0 0 1
+device=LED
+T 68800 47900 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 48200 5 10 1 1 0 0 1
+refdes=D78
+}
+C 71000 48700 1 0 0 led-2.sym
+{
+T 71100 49300 5 10 0 0 0 0 1
+device=LED
+T 71000 48700 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 49000 5 10 1 1 0 0 1
+refdes=D84
+}
+C 71000 48300 1 0 0 led-2.sym
+{
+T 71100 48900 5 10 0 0 0 0 1
+device=LED
+T 71000 48300 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 48600 5 10 1 1 0 0 1
+refdes=D85
+}
+C 71000 49100 1 0 0 led-2.sym
+{
+T 71100 49700 5 10 0 0 0 0 1
+device=LED
+T 71000 49100 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 49400 5 10 1 1 0 0 1
+refdes=D83
+}
+C 71000 47900 1 0 0 led-2.sym
+{
+T 71100 48500 5 10 0 0 0 0 1
+device=LED
+T 71000 47900 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 48200 5 10 1 1 0 0 1
+refdes=D86
+}
+C 62000 49500 1 0 0 led-2.sym
+{
+T 62100 50100 5 10 0 0 0 0 1
+device=LED
+T 62000 49500 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 49800 5 10 1 1 0 0 1
+refdes=D50
+}
+C 62000 49900 1 0 0 led-2.sym
+{
+T 62100 50500 5 10 0 0 0 0 1
+device=LED
+T 62000 49900 5 10 0 0 0 0 1
+footprint=xlamp
+T 62800 50200 5 10 1 1 0 0 1
+refdes=D49
+}
+C 64300 49500 1 0 0 led-2.sym
+{
+T 64400 50100 5 10 0 0 0 0 1
+device=LED
+T 64300 49500 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 49800 5 10 1 1 0 0 1
+refdes=D58
+}
+C 64300 49900 1 0 0 led-2.sym
+{
+T 64400 50500 5 10 0 0 0 0 1
+device=LED
+T 64300 49900 5 10 0 0 0 0 1
+footprint=xlamp
+T 65100 50200 5 10 1 1 0 0 1
+refdes=D57
+}
+C 66600 49500 1 0 0 led-2.sym
+{
+T 66700 50100 5 10 0 0 0 0 1
+device=LED
+T 66600 49500 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 49800 5 10 1 1 0 0 1
+refdes=D66
+}
+C 66600 49900 1 0 0 led-2.sym
+{
+T 66700 50500 5 10 0 0 0 0 1
+device=LED
+T 66600 49900 5 10 0 0 0 0 1
+footprint=xlamp
+T 67400 50200 5 10 1 1 0 0 1
+refdes=D65
+}
+C 68800 49500 1 0 0 led-2.sym
+{
+T 68900 50100 5 10 0 0 0 0 1
+device=LED
+T 68800 49500 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 49800 5 10 1 1 0 0 1
+refdes=D74
+}
+C 68800 49900 1 0 0 led-2.sym
+{
+T 68900 50500 5 10 0 0 0 0 1
+device=LED
+T 68800 49900 5 10 0 0 0 0 1
+footprint=xlamp
+T 69600 50200 5 10 1 1 0 0 1
+refdes=D73
+}
+C 71000 49500 1 0 0 led-2.sym
+{
+T 71100 50100 5 10 0 0 0 0 1
+device=LED
+T 71000 49500 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 49800 5 10 1 1 0 0 1
+refdes=D82
+}
+C 71000 49900 1 0 0 led-2.sym
+{
+T 71100 50500 5 10 0 0 0 0 1
+device=LED
+T 71000 49900 5 10 0 0 0 0 1
+footprint=xlamp
+T 71800 50200 5 10 1 1 0 0 1
+refdes=D81
+}
+C 73200 47100 1 0 0 led-2.sym
+{
+T 73300 47700 5 10 0 0 0 0 1
+device=LED
+T 73200 47100 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 47400 5 10 1 1 0 0 1
+refdes=D96
+}
+C 73200 47500 1 0 0 led-2.sym
+{
+T 73300 48100 5 10 0 0 0 0 1
+device=LED
+T 73200 47500 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 47800 5 10 1 1 0 0 1
+refdes=D95
+}
+C 73200 48700 1 0 0 led-2.sym
+{
+T 73300 49300 5 10 0 0 0 0 1
+device=LED
+T 73200 48700 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 49000 5 10 1 1 0 0 1
+refdes=D92
+}
+C 73200 48300 1 0 0 led-2.sym
+{
+T 73300 48900 5 10 0 0 0 0 1
+device=LED
+T 73200 48300 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 48600 5 10 1 1 0 0 1
+refdes=D93
+}
+C 73200 49100 1 0 0 led-2.sym
+{
+T 73300 49700 5 10 0 0 0 0 1
+device=LED
+T 73200 49100 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 49400 5 10 1 1 0 0 1
+refdes=D91
+}
+C 73200 47900 1 0 0 led-2.sym
+{
+T 73300 48500 5 10 0 0 0 0 1
+device=LED
+T 73200 47900 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 48200 5 10 1 1 0 0 1
+refdes=D94
+}
+C 73200 49500 1 0 0 led-2.sym
+{
+T 73300 50100 5 10 0 0 0 0 1
+device=LED
+T 73200 49500 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 49800 5 10 1 1 0 0 1
+refdes=D90
+}
+C 73200 49900 1 0 0 led-2.sym
+{
+T 73300 50500 5 10 0 0 0 0 1
+device=LED
+T 73200 49900 5 10 0 0 0 0 1
+footprint=xlamp
+T 74000 50200 5 10 1 1 0 0 1
+refdes=D89
+}
+C 62000 46800 1 0 1 connector8-2.sym
+{
+T 61700 50450 5 10 0 0 0 6 1
+device=CONNECTOR_8
+T 61700 50650 5 10 0 0 0 6 1
+footprint=SIP8N
+T 61300 50500 5 10 1 1 0 0 1
+refdes=CONN?
+}
+C 64300 46800 1 0 1 connector8-2.sym
+{
+T 64000 50450 5 10 0 0 0 6 1
+device=CONNECTOR_8
+T 64000 50650 5 10 0 0 0 6 1
+footprint=SIP8N
+T 63600 50500 5 10 1 1 0 0 1
+refdes=CONN?
+}
+C 66600 46800 1 0 1 connector8-2.sym
+{
+T 66300 50450 5 10 0 0 0 6 1
+device=CONNECTOR_8
+T 66300 50650 5 10 0 0 0 6 1
+footprint=SIP8N
+T 65900 50500 5 10 1 1 0 0 1
+refdes=CONN?
+}
+C 68800 46800 1 0 1 connector8-2.sym
+{
+T 68500 50450 5 10 0 0 0 6 1
+device=CONNECTOR_8
+T 68500 50650 5 10 0 0 0 6 1
+footprint=SIP8N
+T 68100 50500 5 10 1 1 0 0 1
+refdes=CONN?
+}
+C 71000 46800 1 0 1 connector8-2.sym
+{
+T 70700 50450 5 10 0 0 0 6 1
+device=CONNECTOR_8
+T 70700 50650 5 10 0 0 0 6 1
+footprint=SIP8N
+T 70300 50500 5 10 1 1 0 0 1
+refdes=CONN?
+}
+C 73200 46800 1 0 1 connector8-2.sym
+{
+T 72900 50450 5 10 0 0 0 6 1
+device=CONNECTOR_8
+T 72900 50650 5 10 0 0 0 6 1
+footprint=SIP8N
+T 72500 50500 5 10 1 1 0 0 1
+refdes=CONN?
+}
+N 62900 50000 62900 44500 4
+N 74100 44500 74100 50000 4
+N 71900 50000 71900 44500 4
+N 69700 50000 69700 44500 4
+N 67500 50000 67500 44500 4
+N 65200 50000 65200 44500 4
