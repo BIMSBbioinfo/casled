@@ -1,3 +1,51 @@
+unnamed_net96	CONN?-1 D89-1 
+unnamed_net95	CONN?-2 D90-1 
+unnamed_net94	CONN?-6 D94-1 
+unnamed_net93	CONN?-3 D91-1 
+unnamed_net92	CONN?-5 D93-1 
+unnamed_net91	CONN?-4 D92-1 
+unnamed_net90	CONN?-7 D95-1 
+unnamed_net89	CONN?-8 D96-1 
+unnamed_net88	CONN?-1 D81-1 
+unnamed_net87	CONN?-2 D82-1 
+unnamed_net86	CONN?-1 D73-1 
+unnamed_net85	CONN?-2 D74-1 
+unnamed_net84	CONN?-1 D65-1 
+unnamed_net83	CONN?-2 D66-1 
+unnamed_net82	CONN?-1 D57-1 
+unnamed_net81	CONN?-2 D58-1 
+unnamed_net80	CONN?-1 D49-1 
+unnamed_net79	CONN?-2 D50-1 
+unnamed_net78	CONN?-6 D86-1 
+unnamed_net77	CONN?-3 D83-1 
+unnamed_net76	CONN?-5 D85-1 
+unnamed_net75	CONN?-4 D84-1 
+unnamed_net74	CONN?-6 D78-1 
+unnamed_net73	CONN?-3 D75-1 
+unnamed_net72	CONN?-5 D77-1 
+unnamed_net71	CONN?-4 D76-1 
+unnamed_net70	CONN?-6 D70-1 
+unnamed_net69	CONN?-3 D67-1 
+unnamed_net68	CONN?-5 D69-1 
+unnamed_net67	CONN?-4 D68-1 
+unnamed_net66	CONN?-6 D62-1 
+unnamed_net65	CONN?-3 D59-1 
+unnamed_net64	CONN?-5 D61-1 
+unnamed_net63	CONN?-4 D60-1 
+unnamed_net62	CONN?-6 D54-1 
+unnamed_net61	CONN?-3 D51-1 
+unnamed_net60	CONN?-5 D53-1 
+unnamed_net59	CONN?-4 D52-1 
+unnamed_net58	CONN?-7 D87-1 
+unnamed_net57	CONN?-8 D88-1 
+unnamed_net56	CONN?-7 D71-1 
+unnamed_net55	CONN?-8 D72-1 
+unnamed_net54	CONN?-7 D79-1 
+unnamed_net53	CONN?-8 D80-1 
+unnamed_net52	CONN?-7 D55-1 
+unnamed_net51	CONN?-8 D56-1 
+unnamed_net50	CONN?-7 D63-1 
+unnamed_net49	CONN?-8 D64-1 
 unnamed_net48	CONN?-1 D41-1 
 unnamed_net47	CONN?-2 D42-1 
 unnamed_net46	CONN?-6 D46-1 
@@ -45,6 +93,7 @@ unnamed_net5	CONN?-8 D32-1
 unnamed_net4	CONN?-7 D7-1 
 unnamed_net3	CONN?-8 D8-1 
 unnamed_net2	CONN?-7 D15-1 
-GND	D9-2 D10-2 D14-2 D11-2 D13-2 D12-2 D41-2 D42-2 D46-2 D43-2 D45-2 D44-2 D47-2 D48-2 D33-2 D34-2 D38-2 D35-2 D37-2 D36-2 D39-2 D40-2 D25-2 D26-2 D30-2 D27-2 D29-2 D28-2 D31-2 D32-2 D17-2 D18-2 D22-2 \
- D19-2 D21-2 D20-2 D23-2 D24-2 D1-2 D2-2 D6-2 D3-2 D5-2 D4-2 D7-2 D8-2 D15-2 D16-2 
+GND	D9-2 D10-2 D14-2 D11-2 D13-2 D12-2 D57-2 D58-2 D62-2 D59-2 D61-2 D60-2 D63-2 D64-2 D65-2 D66-2 D70-2 D67-2 D69-2 D68-2 D71-2 D72-2 D73-2 D74-2 D78-2 D75-2 D77-2 D76-2 D79-2 D80-2 D81-2 D82-2 D86-2 \
+ D83-2 D85-2 D84-2 D87-2 D88-2 D89-2 D90-2 D94-2 D91-2 D93-2 D92-2 D95-2 D96-2 D49-2 D50-2 D54-2 D51-2 D53-2 D52-2 D55-2 D56-2 D41-2 D42-2 D46-2 D43-2 D45-2 D44-2 D47-2 D48-2 D33-2 D34-2 D38-2 D35-2 \
+ D37-2 D36-2 D39-2 D40-2 D25-2 D26-2 D30-2 D27-2 D29-2 D28-2 D31-2 D32-2 D17-2 D18-2 D22-2 D19-2 D21-2 D20-2 D23-2 D24-2 D1-2 D2-2 D6-2 D3-2 D5-2 D4-2 D7-2 D8-2 D15-2 D16-2 
 unnamed_net1	CONN?-8 D16-1 
