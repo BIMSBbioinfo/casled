@@ -5,7 +5,7 @@ FileVersion[20091103]
 
 PCB["" 5118.00mil 3543.00mil]
 
-Grid[10.00mil 0.0000 0.0000 1]
+Grid[35.00mil 0.0000 0.0000 0]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[10.00mil 10.00mil 10.00mil 10.00mil 15.00mil 10.00mil]
@@ -786,9 +786,9 @@ Symbol['~' 12.00mil]
 	SymbolLine[20.00mil 35.00mil 25.00mil 30.00mil 8.00mil]
 )
 Attribute("PCB::grid::unit" "mil")
-Attribute("PCB::grid::size" "10.00mil")
+Attribute("PCB::grid::size" "35.00mil")
 
-Element["" "xlamp" "D1" "unknown" 350.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D1" "unknown" 350.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -798,7 +798,7 @@ Element["" "xlamp" "D1" "unknown" 350.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
 
 	)
 
-Element["" "xlamp" "D2" "unknown" 350.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D2" "unknown" 350.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -808,7 +808,7 @@ Element["" "xlamp" "D2" "unknown" 350.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
 
 	)
 
-Element["" "xlamp" "D3" "unknown" 350.00mil 1060.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D3" "unknown" 350.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -818,7 +818,7 @@ Element["" "xlamp" "D3" "unknown" 350.00mil 1060.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D5" "unknown" 350.00mil 1770.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D5" "unknown" 350.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -828,7 +828,7 @@ Element["" "xlamp" "D5" "unknown" 350.00mil 1770.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D4" "unknown" 350.00mil 1415.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D4" "unknown" 350.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -838,7 +838,7 @@ Element["" "xlamp" "D4" "unknown" 350.00mil 1415.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D7" "unknown" 350.00mil 2480.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D7" "unknown" 350.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -848,7 +848,7 @@ Element["" "xlamp" "D7" "unknown" 350.00mil 2480.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D8" "unknown" 350.00mil 2835.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D8" "unknown" 350.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -858,7 +858,7 @@ Element["" "xlamp" "D8" "unknown" 350.00mil 2835.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D6" "unknown" 350.00mil 2125.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D6" "unknown" 350.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -868,7 +868,7 @@ Element["" "xlamp" "D6" "unknown" 350.00mil 2125.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D25" "unknown" 1415.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D25" "unknown" 1415.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -878,7 +878,7 @@ Element["" "xlamp" "D25" "unknown" 1415.00mil 350.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D26" "unknown" 1415.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D26" "unknown" 1415.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -888,7 +888,7 @@ Element["" "xlamp" "D26" "unknown" 1415.00mil 705.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D30" "unknown" 1415.00mil 2125.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D30" "unknown" 1415.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -898,7 +898,7 @@ Element["" "xlamp" "D30" "unknown" 1415.00mil 2125.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D27" "unknown" 1415.00mil 1060.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D27" "unknown" 1415.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -908,7 +908,7 @@ Element["" "xlamp" "D27" "unknown" 1415.00mil 1060.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D29" "unknown" 1415.00mil 1770.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D29" "unknown" 1415.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -918,7 +918,7 @@ Element["" "xlamp" "D29" "unknown" 1415.00mil 1770.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D28" "unknown" 1415.00mil 1415.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D28" "unknown" 1415.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -928,7 +928,7 @@ Element["" "xlamp" "D28" "unknown" 1415.00mil 1415.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D31" "unknown" 1415.00mil 2480.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D31" "unknown" 1415.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -938,7 +938,7 @@ Element["" "xlamp" "D31" "unknown" 1415.00mil 2480.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D32" "unknown" 1415.00mil 2835.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D32" "unknown" 1415.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -948,7 +948,7 @@ Element["" "xlamp" "D32" "unknown" 1415.00mil 2835.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D17" "unknown" 1060.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D17" "unknown" 1060.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -958,7 +958,7 @@ Element["" "xlamp" "D17" "unknown" 1060.00mil 350.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D18" "unknown" 1060.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D18" "unknown" 1060.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -968,7 +968,7 @@ Element["" "xlamp" "D18" "unknown" 1060.00mil 705.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D19" "unknown" 1060.00mil 1060.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D19" "unknown" 1060.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -978,7 +978,7 @@ Element["" "xlamp" "D19" "unknown" 1060.00mil 1060.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D24" "unknown" 1060.00mil 2835.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D24" "unknown" 1060.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -988,7 +988,7 @@ Element["" "xlamp" "D24" "unknown" 1060.00mil 2835.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D22" "unknown" 1060.00mil 2125.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D22" "unknown" 1060.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -998,7 +998,7 @@ Element["" "xlamp" "D22" "unknown" 1060.00mil 2125.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D21" "unknown" 1060.00mil 1770.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D21" "unknown" 1060.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1008,7 +1008,7 @@ Element["" "xlamp" "D21" "unknown" 1060.00mil 1770.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D20" "unknown" 1060.00mil 1415.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D20" "unknown" 1060.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1018,7 +1018,7 @@ Element["" "xlamp" "D20" "unknown" 1060.00mil 1415.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D23" "unknown" 1060.00mil 2480.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D23" "unknown" 1060.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1028,7 +1028,7 @@ Element["" "xlamp" "D23" "unknown" 1060.00mil 2480.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D9" "unknown" 705.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D9" "unknown" 705.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1038,7 +1038,7 @@ Element["" "xlamp" "D9" "unknown" 705.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
 
 	)
 
-Element["" "xlamp" "D10" "unknown" 705.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D10" "unknown" 705.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1048,7 +1048,7 @@ Element["" "xlamp" "D10" "unknown" 705.00mil 705.00mil 0.0000 250.00mil 0 100 ""
 
 	)
 
-Element["" "xlamp" "D14" "unknown" 705.00mil 2125.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D14" "unknown" 705.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1058,7 +1058,7 @@ Element["" "xlamp" "D14" "unknown" 705.00mil 2125.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D13" "unknown" 705.00mil 1770.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D13" "unknown" 705.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1068,7 +1068,7 @@ Element["" "xlamp" "D13" "unknown" 705.00mil 1770.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D15" "unknown" 705.00mil 2480.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D15" "unknown" 705.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1078,7 +1078,7 @@ Element["" "xlamp" "D15" "unknown" 705.00mil 2480.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D11" "unknown" 705.00mil 1060.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D11" "unknown" 705.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1088,7 +1088,7 @@ Element["" "xlamp" "D11" "unknown" 705.00mil 1060.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D12" "unknown" 705.00mil 1415.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D12" "unknown" 705.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1098,7 +1098,7 @@ Element["" "xlamp" "D12" "unknown" 705.00mil 1415.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D16" "unknown" 705.00mil 2835.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D16" "unknown" 705.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1108,7 +1108,7 @@ Element["" "xlamp" "D16" "unknown" 705.00mil 2835.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D33" "unknown" 1770.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D33" "unknown" 1770.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1118,7 +1118,7 @@ Element["" "xlamp" "D33" "unknown" 1770.00mil 350.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D38" "unknown" 1770.00mil 2125.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D38" "unknown" 1770.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1128,7 +1128,7 @@ Element["" "xlamp" "D38" "unknown" 1770.00mil 2125.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D35" "unknown" 1770.00mil 1060.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D35" "unknown" 1770.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1138,7 +1138,7 @@ Element["" "xlamp" "D35" "unknown" 1770.00mil 1060.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D37" "unknown" 1770.00mil 1770.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D37" "unknown" 1770.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1148,7 +1148,7 @@ Element["" "xlamp" "D37" "unknown" 1770.00mil 1770.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D39" "unknown" 1770.00mil 2480.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D39" "unknown" 1770.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1158,7 +1158,7 @@ Element["" "xlamp" "D39" "unknown" 1770.00mil 2480.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D40" "unknown" 1770.00mil 2835.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D40" "unknown" 1770.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1168,7 +1168,7 @@ Element["" "xlamp" "D40" "unknown" 1770.00mil 2835.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D34" "unknown" 1770.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D34" "unknown" 1770.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1178,7 +1178,7 @@ Element["" "xlamp" "D34" "unknown" 1770.00mil 705.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D36" "unknown" 1770.00mil 1415.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D36" "unknown" 1770.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1188,7 +1188,7 @@ Element["" "xlamp" "D36" "unknown" 1770.00mil 1415.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D46" "unknown" 2125.00mil 2125.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D46" "unknown" 2125.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1198,7 +1198,7 @@ Element["" "xlamp" "D46" "unknown" 2125.00mil 2125.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D43" "unknown" 2125.00mil 1060.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D43" "unknown" 2125.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1208,7 +1208,7 @@ Element["" "xlamp" "D43" "unknown" 2125.00mil 1060.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D44" "unknown" 2125.00mil 1415.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D44" "unknown" 2125.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1218,7 +1218,7 @@ Element["" "xlamp" "D44" "unknown" 2125.00mil 1415.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D47" "unknown" 2125.00mil 2480.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D47" "unknown" 2125.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1228,7 +1228,7 @@ Element["" "xlamp" "D47" "unknown" 2125.00mil 2480.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D48" "unknown" 2125.00mil 2835.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D48" "unknown" 2125.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1238,7 +1238,7 @@ Element["" "xlamp" "D48" "unknown" 2125.00mil 2835.00mil 0.0000 250.00mil 0 100 
 
 	)
 
-Element["" "xlamp" "D41" "unknown" 2125.00mil 350.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D41" "unknown" 2125.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1248,7 +1248,7 @@ Element["" "xlamp" "D41" "unknown" 2125.00mil 350.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D42" "unknown" 2125.00mil 705.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D42" "unknown" 2125.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
@@ -1258,26 +1258,497 @@ Element["" "xlamp" "D42" "unknown" 2125.00mil 705.00mil 0.0000 250.00mil 0 100 "
 
 	)
 
-Element["" "xlamp" "D45" "unknown" 2125.00mil 1770.00mil 0.0000 250.00mil 0 100 ""]
+Element["" "xlamp" "D45" "unknown" 2125.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
 	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D89" "unknown" 4255.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D90" "unknown" 4255.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D94" "unknown" 4255.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D91" "unknown" 4255.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D93" "unknown" 4255.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D92" "unknown" 4255.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D95" "unknown" 4255.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D96" "unknown" 4255.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D81" "unknown" 3900.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D82" "unknown" 3900.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D73" "unknown" 3545.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D74" "unknown" 3545.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D65" "unknown" 3190.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D66" "unknown" 3190.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D57" "unknown" 2835.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D58" "unknown" 2835.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D49" "unknown" 2480.00mil 350.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D50" "unknown" 2480.00mil 705.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D86" "unknown" 3900.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D83" "unknown" 3900.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D85" "unknown" 3900.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D84" "unknown" 3900.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D78" "unknown" 3545.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D75" "unknown" 3545.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D77" "unknown" 3545.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D76" "unknown" 3545.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D70" "unknown" 3190.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D67" "unknown" 3190.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D69" "unknown" 3190.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D68" "unknown" 3190.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D62" "unknown" 2835.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D59" "unknown" 2835.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D61" "unknown" 2835.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D60" "unknown" 2835.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D54" "unknown" 2480.00mil 2125.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D51" "unknown" 2480.00mil 1060.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D53" "unknown" 2480.00mil 1770.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D52" "unknown" 2480.00mil 1415.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D87" "unknown" 3900.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D88" "unknown" 3900.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D71" "unknown" 3190.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D72" "unknown" 3190.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D79" "unknown" 3545.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D80" "unknown" 3545.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D55" "unknown" 2480.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D56" "unknown" 2480.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D63" "unknown" 2835.00mil 2480.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
+
+	)
+
+Element["" "xlamp" "D64" "unknown" 2835.00mil 2835.00mil 0.0000 75.00mil 0 100 ""]
+(
+	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "anode 1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "cathode 1" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "anode 2" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "cathode 2" "2" "square,edge2"]
 
 	)
 Layer(1 "top" "copper")
 (
-	Line[258.07mil 39.1940mm 71.0420mm 39.1940mm 25.00mil 20.00mil "clearline"]
-	Line[71.0420mm 39.1940mm 2805.00mil 1535.00mil 25.00mil 20.00mil "clearline"]
-	Line[10.3650mm 309.65mil 10.3650mm 709.65mil 25.00mil 20.00mil "clearline"]
-	Line[10.3650mm 710.00mil 10.3650mm 73.0339mm 25.00mil 20.00mil "clearline"]
-	Line[19.3820mm 309.65mil 19.3820mm 73.0339mm 25.00mil 20.00mil "clearline"]
-	Line[28.3990mm 309.65mil 28.3990mm 73.0339mm 25.00mil 20.00mil "clearline"]
-	Line[37.4160mm 73.0339mm 37.4160mm 309.65mil 25.00mil 20.00mil "clearline"]
-	Line[46.4330mm 309.65mil 46.4330mm 73.0339mm 25.00mil 20.00mil "clearline"]
-	Line[55.4500mm 309.65mil 55.4500mm 73.0339mm 25.00mil 20.00mil "clearline"]
 	Line[291.93mil 390.35mil 291.93mil 268.07mil 10.00mil 20.00mil "clearline"]
 	Line[291.93mil 745.35mil 291.93mil 11.7330mm 10.00mil 20.00mil "clearline"]
 	Line[291.93mil 11.7330mm 250.00mil 420.00mil 10.00mil 20.00mil "clearline"]
@@ -1398,6 +1869,139 @@ Layer(1 "top" "copper")
 	Line[52.3730mm 43.8061mm 52.3730mm 49.9890mm 10.00mil 20.00mil "clearline"]
 	Line[52.3730mm 49.9890mm 1980.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
 	Line[1980.00mil 2050.00mil 1980.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 390.35mil 61.5170mm 268.07mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 745.35mil 61.5170mm 11.7330mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 11.7330mm 2380.00mil 420.00mil 10.00mil 20.00mil "clearline"]
+	Line[2380.00mil 420.00mil 2380.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[2360.00mil 780.00mil 2360.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 21.3850mm 2360.00mil 780.00mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 27.9489mm 61.5170mm 21.3850mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 36.9659mm 61.5170mm 30.7830mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 30.7830mm 2340.00mil 1130.00mil 10.00mil 20.00mil "clearline"]
+	Line[2340.00mil 1130.00mil 2340.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 390.35mil 70.4070mm 268.07mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 745.35mil 70.4070mm 11.7330mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 11.7330mm 2730.00mil 420.00mil 10.00mil 20.00mil "clearline"]
+	Line[2730.00mil 420.00mil 2730.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[2710.00mil 780.00mil 2710.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 21.3850mm 2710.00mil 780.00mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 27.9489mm 70.4070mm 21.3850mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 36.9659mm 70.4070mm 30.7830mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 30.7830mm 2690.00mil 1130.00mil 10.00mil 20.00mil "clearline"]
+	Line[2690.00mil 1130.00mil 2690.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 390.35mil 79.5510mm 268.07mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 745.35mil 79.5510mm 11.7330mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 11.7330mm 3090.00mil 420.00mil 10.00mil 20.00mil "clearline"]
+	Line[3090.00mil 420.00mil 3090.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[3070.00mil 780.00mil 3070.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 21.3850mm 3070.00mil 780.00mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 27.9489mm 79.5510mm 21.3850mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 36.9659mm 79.5510mm 30.7830mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 30.7830mm 3050.00mil 1130.00mil 10.00mil 20.00mil "clearline"]
+	Line[3050.00mil 1130.00mil 3050.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 390.35mil 88.4410mm 268.07mil 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 745.35mil 88.4410mm 11.7330mm 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 11.7330mm 3440.00mil 420.00mil 10.00mil 20.00mil "clearline"]
+	Line[3440.00mil 420.00mil 3440.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[3420.00mil 780.00mil 3420.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 21.3850mm 3420.00mil 780.00mil 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 27.9489mm 88.4410mm 21.3850mm 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 36.9659mm 88.4410mm 30.7830mm 10.00mil 20.00mil "clearline"]
+	Line[88.4410mm 30.7830mm 3400.00mil 1130.00mil 10.00mil 20.00mil "clearline"]
+	Line[3400.00mil 1130.00mil 3400.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 390.35mil 97.5850mm 268.07mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 745.35mil 97.5850mm 11.7330mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 11.7330mm 3800.00mil 420.00mil 10.00mil 20.00mil "clearline"]
+	Line[3800.00mil 420.00mil 3800.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[3780.00mil 780.00mil 3780.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 21.3850mm 3780.00mil 780.00mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 27.9489mm 97.5850mm 21.3850mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 36.9659mm 97.5850mm 30.7830mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 30.7830mm 3760.00mil 1130.00mil 10.00mil 20.00mil "clearline"]
+	Line[3760.00mil 1130.00mil 3760.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 390.35mil 106.4750mm 268.07mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 745.35mil 106.4750mm 11.7330mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 11.7330mm 4150.00mil 420.00mil 10.00mil 20.00mil "clearline"]
+	Line[4150.00mil 420.00mil 4150.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[4130.00mil 780.00mil 4130.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 21.3850mm 4130.00mil 780.00mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 27.9489mm 106.4750mm 21.3850mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 36.9659mm 106.4750mm 30.7830mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 30.7830mm 4110.00mil 1130.00mil 10.00mil 20.00mil "clearline"]
+	Line[4110.00mil 1130.00mil 4110.00mil 270.00mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 70.8571mm 61.5170mm 73.9630mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 61.8401mm 61.5170mm 69.0390mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 69.0390mm 2380.00mil 2760.00mil 10.00mil 20.00mil "clearline"]
+	Line[2380.00mil 2760.00mil 2380.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[2360.00mil 2400.00mil 2360.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 59.3870mm 2360.00mil 2400.00mil 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 52.8231mm 61.5170mm 59.3870mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 43.8061mm 61.5170mm 49.9890mm 10.00mil 20.00mil "clearline"]
+	Line[61.5170mm 49.9890mm 2340.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
+	Line[2340.00mil 2050.00mil 2340.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 70.8571mm 70.4070mm 73.9630mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 61.8401mm 70.4070mm 69.0390mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 69.0390mm 2730.00mil 2760.00mil 10.00mil 20.00mil "clearline"]
+	Line[2730.00mil 2760.00mil 2730.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[2710.00mil 2400.00mil 2710.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 59.3870mm 2710.00mil 2400.00mil 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 52.8231mm 70.4070mm 59.3870mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 43.8061mm 70.4070mm 49.9890mm 10.00mil 20.00mil "clearline"]
+	Line[70.4070mm 49.9890mm 2690.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
+	Line[2690.00mil 2050.00mil 2690.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 70.8571mm 79.5510mm 73.9630mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 61.8401mm 79.5510mm 69.0390mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 69.0390mm 3090.00mil 2760.00mil 10.00mil 20.00mil "clearline"]
+	Line[3090.00mil 2760.00mil 3090.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[3070.00mil 2400.00mil 3070.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 59.3870mm 3070.00mil 2400.00mil 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 52.8231mm 79.5510mm 59.3870mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 43.8061mm 79.5510mm 49.9890mm 10.00mil 20.00mil "clearline"]
+	Line[79.5510mm 49.9890mm 3050.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
+	Line[3050.00mil 2050.00mil 3050.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 70.8571mm 88.6950mm 73.9630mm 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 61.8401mm 88.6950mm 69.0390mm 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 69.0390mm 3450.00mil 2760.00mil 10.00mil 20.00mil "clearline"]
+	Line[3450.00mil 2760.00mil 3450.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[3430.00mil 2400.00mil 3430.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 59.3870mm 3430.00mil 2400.00mil 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 52.8231mm 88.6950mm 59.3870mm 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 43.8061mm 88.6950mm 49.9890mm 10.00mil 20.00mil "clearline"]
+	Line[88.6950mm 49.9890mm 3410.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
+	Line[3410.00mil 2050.00mil 3410.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 70.8571mm 97.5850mm 73.9630mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 61.8401mm 97.5850mm 69.0390mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 69.0390mm 3800.00mil 2760.00mil 10.00mil 20.00mil "clearline"]
+	Line[3800.00mil 2760.00mil 3800.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[3780.00mil 2400.00mil 3780.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 59.3870mm 3780.00mil 2400.00mil 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 52.8231mm 97.5850mm 59.3870mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 43.8061mm 97.5850mm 49.9890mm 10.00mil 20.00mil "clearline"]
+	Line[97.5850mm 49.9890mm 3760.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
+	Line[3760.00mil 2050.00mil 3760.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 70.8571mm 106.4750mm 73.9630mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 61.8401mm 106.4750mm 69.0390mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 69.0390mm 4150.00mil 2760.00mil 10.00mil 20.00mil "clearline"]
+	Line[4150.00mil 2760.00mil 4150.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[4130.00mil 2400.00mil 4130.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 59.3870mm 4130.00mil 2400.00mil 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 52.8231mm 106.4750mm 59.3870mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 43.8061mm 106.4750mm 49.9890mm 10.00mil 20.00mil "clearline"]
+	Line[106.4750mm 49.9890mm 4110.00mil 2050.00mil 10.00mil 20.00mil "clearline"]
+	Line[4110.00mil 2050.00mil 4110.00mil 2910.00mil 10.00mil 20.00mil "clearline"]
+	Line[10.3650mm 1575.00mil 109.5520mm 1575.00mil 40.00mil 20.00mil "clearline"]
+	Line[10.3650mm 309.65mil 10.3650mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[19.3820mm 73.0339mm 19.3820mm 309.65mil 40.00mil 20.00mil "clearline"]
+	Line[28.3990mm 309.65mil 28.3990mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[37.4160mm 309.65mil 37.4160mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[46.4330mm 309.65mil 46.4330mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[55.4500mm 309.65mil 55.4500mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[64.4670mm 73.0339mm 64.4670mm 309.65mil 40.00mil 20.00mil "clearline"]
+	Line[73.4840mm 309.65mil 73.4840mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[82.5010mm 73.0339mm 82.5010mm 309.65mil 40.00mil 20.00mil "clearline"]
+	Line[91.5180mm 309.65mil 91.5180mm 73.0339mm 40.00mil 20.00mil "clearline"]
+	Line[100.5350mm 73.0339mm 100.5350mm 309.65mil 40.00mil 20.00mil "clearline"]
+	Line[109.5520mm 309.65mil 109.5520mm 73.0339mm 40.00mil 20.00mil "clearline"]
 )
 Layer(2 "ground" "copper")
 (
@@ -1478,6 +2082,54 @@ NetList()
 		Connect("D46-2")
 		Connect("D47-2")
 		Connect("D48-2")
+		Connect("D49-2")
+		Connect("D50-2")
+		Connect("D51-2")
+		Connect("D52-2")
+		Connect("D53-2")
+		Connect("D54-2")
+		Connect("D55-2")
+		Connect("D56-2")
+		Connect("D57-2")
+		Connect("D58-2")
+		Connect("D59-2")
+		Connect("D60-2")
+		Connect("D61-2")
+		Connect("D62-2")
+		Connect("D63-2")
+		Connect("D64-2")
+		Connect("D65-2")
+		Connect("D66-2")
+		Connect("D67-2")
+		Connect("D68-2")
+		Connect("D69-2")
+		Connect("D70-2")
+		Connect("D71-2")
+		Connect("D72-2")
+		Connect("D73-2")
+		Connect("D74-2")
+		Connect("D75-2")
+		Connect("D76-2")
+		Connect("D77-2")
+		Connect("D78-2")
+		Connect("D79-2")
+		Connect("D80-2")
+		Connect("D81-2")
+		Connect("D82-2")
+		Connect("D83-2")
+		Connect("D84-2")
+		Connect("D85-2")
+		Connect("D86-2")
+		Connect("D87-2")
+		Connect("D88-2")
+		Connect("D89-2")
+		Connect("D90-2")
+		Connect("D91-2")
+		Connect("D92-2")
+		Connect("D93-2")
+		Connect("D94-2")
+		Connect("D95-2")
+		Connect("D96-2")
 	)
 	Net("unnamed_net1" "(unknown)")
 	(
@@ -1718,5 +2370,245 @@ NetList()
 	(
 		Connect("CONN?-1")
 		Connect("D41-1")
+	)
+	Net("unnamed_net49" "(unknown)")
+	(
+		Connect("CONN?-8")
+		Connect("D64-1")
+	)
+	Net("unnamed_net50" "(unknown)")
+	(
+		Connect("CONN?-7")
+		Connect("D63-1")
+	)
+	Net("unnamed_net51" "(unknown)")
+	(
+		Connect("CONN?-8")
+		Connect("D56-1")
+	)
+	Net("unnamed_net52" "(unknown)")
+	(
+		Connect("CONN?-7")
+		Connect("D55-1")
+	)
+	Net("unnamed_net53" "(unknown)")
+	(
+		Connect("CONN?-8")
+		Connect("D80-1")
+	)
+	Net("unnamed_net54" "(unknown)")
+	(
+		Connect("CONN?-7")
+		Connect("D79-1")
+	)
+	Net("unnamed_net55" "(unknown)")
+	(
+		Connect("CONN?-8")
+		Connect("D72-1")
+	)
+	Net("unnamed_net56" "(unknown)")
+	(
+		Connect("CONN?-7")
+		Connect("D71-1")
+	)
+	Net("unnamed_net57" "(unknown)")
+	(
+		Connect("CONN?-8")
+		Connect("D88-1")
+	)
+	Net("unnamed_net58" "(unknown)")
+	(
+		Connect("CONN?-7")
+		Connect("D87-1")
+	)
+	Net("unnamed_net59" "(unknown)")
+	(
+		Connect("CONN?-4")
+		Connect("D52-1")
+	)
+	Net("unnamed_net60" "(unknown)")
+	(
+		Connect("CONN?-5")
+		Connect("D53-1")
+	)
+	Net("unnamed_net61" "(unknown)")
+	(
+		Connect("CONN?-3")
+		Connect("D51-1")
+	)
+	Net("unnamed_net62" "(unknown)")
+	(
+		Connect("CONN?-6")
+		Connect("D54-1")
+	)
+	Net("unnamed_net63" "(unknown)")
+	(
+		Connect("CONN?-4")
+		Connect("D60-1")
+	)
+	Net("unnamed_net64" "(unknown)")
+	(
+		Connect("CONN?-5")
+		Connect("D61-1")
+	)
+	Net("unnamed_net65" "(unknown)")
+	(
+		Connect("CONN?-3")
+		Connect("D59-1")
+	)
+	Net("unnamed_net66" "(unknown)")
+	(
+		Connect("CONN?-6")
+		Connect("D62-1")
+	)
+	Net("unnamed_net67" "(unknown)")
+	(
+		Connect("CONN?-4")
+		Connect("D68-1")
+	)
+	Net("unnamed_net68" "(unknown)")
+	(
+		Connect("CONN?-5")
+		Connect("D69-1")
+	)
+	Net("unnamed_net69" "(unknown)")
+	(
+		Connect("CONN?-3")
+		Connect("D67-1")
+	)
+	Net("unnamed_net70" "(unknown)")
+	(
+		Connect("CONN?-6")
+		Connect("D70-1")
+	)
+	Net("unnamed_net71" "(unknown)")
+	(
+		Connect("CONN?-4")
+		Connect("D76-1")
+	)
+	Net("unnamed_net72" "(unknown)")
+	(
+		Connect("CONN?-5")
+		Connect("D77-1")
+	)
+	Net("unnamed_net73" "(unknown)")
+	(
+		Connect("CONN?-3")
+		Connect("D75-1")
+	)
+	Net("unnamed_net74" "(unknown)")
+	(
+		Connect("CONN?-6")
+		Connect("D78-1")
+	)
+	Net("unnamed_net75" "(unknown)")
+	(
+		Connect("CONN?-4")
+		Connect("D84-1")
+	)
+	Net("unnamed_net76" "(unknown)")
+	(
+		Connect("CONN?-5")
+		Connect("D85-1")
+	)
+	Net("unnamed_net77" "(unknown)")
+	(
+		Connect("CONN?-3")
+		Connect("D83-1")
+	)
+	Net("unnamed_net78" "(unknown)")
+	(
+		Connect("CONN?-6")
+		Connect("D86-1")
+	)
+	Net("unnamed_net79" "(unknown)")
+	(
+		Connect("CONN?-2")
+		Connect("D50-1")
+	)
+	Net("unnamed_net80" "(unknown)")
+	(
+		Connect("CONN?-1")
+		Connect("D49-1")
+	)
+	Net("unnamed_net81" "(unknown)")
+	(
+		Connect("CONN?-2")
+		Connect("D58-1")
+	)
+	Net("unnamed_net82" "(unknown)")
+	(
+		Connect("CONN?-1")
+		Connect("D57-1")
+	)
+	Net("unnamed_net83" "(unknown)")
+	(
+		Connect("CONN?-2")
+		Connect("D66-1")
+	)
+	Net("unnamed_net84" "(unknown)")
+	(
+		Connect("CONN?-1")
+		Connect("D65-1")
+	)
+	Net("unnamed_net85" "(unknown)")
+	(
+		Connect("CONN?-2")
+		Connect("D74-1")
+	)
+	Net("unnamed_net86" "(unknown)")
+	(
+		Connect("CONN?-1")
+		Connect("D73-1")
+	)
+	Net("unnamed_net87" "(unknown)")
+	(
+		Connect("CONN?-2")
+		Connect("D82-1")
+	)
+	Net("unnamed_net88" "(unknown)")
+	(
+		Connect("CONN?-1")
+		Connect("D81-1")
+	)
+	Net("unnamed_net89" "(unknown)")
+	(
+		Connect("CONN?-8")
+		Connect("D96-1")
+	)
+	Net("unnamed_net90" "(unknown)")
+	(
+		Connect("CONN?-7")
+		Connect("D95-1")
+	)
+	Net("unnamed_net91" "(unknown)")
+	(
+		Connect("CONN?-4")
+		Connect("D92-1")
+	)
+	Net("unnamed_net92" "(unknown)")
+	(
+		Connect("CONN?-5")
+		Connect("D93-1")
+	)
+	Net("unnamed_net93" "(unknown)")
+	(
+		Connect("CONN?-3")
+		Connect("D91-1")
+	)
+	Net("unnamed_net94" "(unknown)")
+	(
+		Connect("CONN?-6")
+		Connect("D94-1")
+	)
+	Net("unnamed_net95" "(unknown)")
+	(
+		Connect("CONN?-2")
+		Connect("D90-1")
+	)
+	Net("unnamed_net96" "(unknown)")
+	(
+		Connect("CONN?-1")
+		Connect("D89-1")
 	)
 )
