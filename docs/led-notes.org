@@ -1,0 +1,57 @@
+This is a list of LEDs that we considered for this project before
+deciding on the Cree XLamp MLESBL that is still very bright at 50mA.
+
+* SMBB470H-1100 (epitex)
+[[file:~/Downloads/SMBB470H-1100.pdf::%25PDF-1.5%0D]]
+- wavelength: 470nm
+- flux @350mA: 80 mW/sr or 25lm
+- flux @100mA: factor 0.3 => 7.5lm
+
+* SMBB490H-1100 (marubeni)
+[[file:~/Downloads/SMBB490H-1100.pdf]]
+- wavelength: 490nm
+- flux @350mA: 68 mW/sr or 70lm
+- flux @100mA: factor 0.35 => 24.5lm
+
+* Cree XLamp MLEBLU-A1-0000-000U01 (groups B6+G0)
+[[file:~/Downloads/XlampMLE-180564.pdf::%25PDF-1.4]]
+- wavelength: 485nm
+- flux @150mA: 13.9lm
+- flux @100mA: 75% => 10.4lm
+
+* Cree XLamp MLESBL-A1-0000-000U01
+- wavelength: 485nm
+- flux @50mA: 13.9lm!
+https://eu.mouser.com/ProductDetail/Cree-Inc/MLESBL-A1-0000-000U01/?qs=sGAEpiMZZMu4Prknbu83yxIPIq2FZswnF4n%2fo%2fnr30egyk9lV76lDQ%3d%3d
+
+* Lumiled Luxeon 3535L (L135-B475003500000)
+[[file:~/Downloads/DS146-748694.pdf::%25PDF-1.4]]
+- wavelength: 469—480nm
+- flux @100mA: 11.0lm
+- flux @50mA: factor 0.5 => 5.5lm
+- cheap!
+http://de.futureelectronics.com/de/Technologies/Product.aspx?ProductID=L135B475003500000LUMILEDS1073274&IM=0
+
+* Lumiled Luxeon Rebel (LXML-PE01-0070)
+file:~/Downloads/DS68.pdf
+- flux @350mA: 76lm
+- flux @100mA: unknown! Guess factor 0.2: 15.2lm
+- most expensive!
+http://de.futureelectronics.com/de/technologies/semiconductors/lighting-solutions/led-emitters/high-power-led-emitters-rev/Seiten/4497244-LXML-PE01-0070.aspx?IM=0
+
+* Lumiled Luxeon Rebel (LXML-PB01-0040)
+file:~/Downloads/DS68.pdf
+- flux @700mA: 41lm 
+- flux @100mA: factor 0.3 => 12.3lm
+
+* Lumiled Luxeon Rebel (LXML-PB02)
+file:~/Downloads/DS68.pdf
+- flux @700mA: 74lm 
+- flux @100mA: factor 0.2 => 14.8lm
+
+* Cree XLamp XP-E2 (XPEBBL-L1-0000-00201)
+- wavelength: 475nm
+- flux @350mA: 43lm
+- flux @150mA: factor 0.5 => 21.5lm
+- not tested for 100mA or lower!
+https://www.digikey.com/product-detail/en/cree-inc/XPEBBL-L1-0000-00201/XPEBBL-L1-0000-00201CT-ND/4111293
