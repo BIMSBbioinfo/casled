@@ -5,7 +5,7 @@ FileVersion[20091103]
 
 PCB["" 5118.00mil 4000.00mil]
 
-Grid[1.00mil 0.0000 0.0000 0]
+Grid[2.00mil 0.0000 0.0000 0]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[10.00mil 10.00mil 10.00mil 10.00mil 15.00mil 10.00mil]
@@ -786,7 +786,7 @@ Symbol['~' 12.00mil]
 	SymbolLine[20.00mil 35.00mil 25.00mil 30.00mil 8.00mil]
 )
 Attribute("PCB::grid::unit" "mil")
-Attribute("PCB::grid::size" "1.00mil")
+Attribute("PCB::grid::size" "2.00mil")
 
 Element["" "21-0042B_24" "U3" "unknown" 2534.00mil 304.00mil -250.00mil 0.0000 3 100 ""]
 (
@@ -1957,129 +1957,65 @@ Element["" "21-0042B_24" "U1" "unknown" 1177.00mil 318.00mil -250.00mil 0.0000 3
 	ElementLine [298.60mil 154.50mil 312.00mil 154.50mil 6.00mil]
 
 	)
-Rat[89.1037mm 667.65mil 0 3584.00mil 505.00mil 0  ""]
-Rat[25.9847mm 82.1271mm 0 1188.00mil 3484.00mil 0  ""]
-Rat[35.0017mm 667.65mil 0 1452.00mil 105.00mil 0  ""]
-Rat[71.0697mm 667.65mil 0 2809.00mil 91.00mil 0  ""]
-Rat[89.1037mm 82.1271mm 0 3650.00mil 3944.00mil 0  ""]
-Rat[61.9778mm 82.1271mm 0 2322.00mil 3951.00mil 0  ""]
-Rat[1887.00mil 3268.00mil 0 1907.00mil 3268.00mil 0  ""]
-Rat[1907.00mil 3268.00mil 0 1927.00mil 3268.00mil 0  ""]
-Rat[1927.00mil 3268.00mil 0 50.0108mm 83.0562mm 0  ""]
-Rat[50.0108mm 83.0562mm 0 2237.00mil 3268.00mil 0  ""]
-Rat[2237.00mil 3268.00mil 0 2257.00mil 3268.00mil 0  ""]
-Rat[2257.00mil 3268.00mil 0 2277.00mil 3268.00mil 0  ""]
-Rat[2277.00mil 3268.00mil 0 58.9008mm 83.0562mm 0  ""]
-Rat[58.9008mm 83.0562mm 0 2597.00mil 3268.00mil 0  ""]
-Rat[2597.00mil 3268.00mil 0 2617.00mil 3268.00mil 0  ""]
-Rat[2617.00mil 3268.00mil 0 2637.00mil 3268.00mil 0  ""]
-Rat[2637.00mil 3268.00mil 0 68.0448mm 83.0562mm 0  ""]
-Rat[68.0448mm 83.0562mm 0 2947.00mil 3268.00mil 0  ""]
-Rat[2947.00mil 3268.00mil 0 2967.00mil 3268.00mil 0  ""]
-Rat[2967.00mil 3268.00mil 0 2987.00mil 3268.00mil 0  ""]
-Rat[2987.00mil 3268.00mil 0 76.9348mm 83.0562mm 0  ""]
-Rat[76.9348mm 83.0562mm 0 3307.00mil 3268.00mil 0  ""]
-Rat[3307.00mil 3268.00mil 0 3327.00mil 3268.00mil 0  ""]
-Rat[3327.00mil 3268.00mil 0 3347.00mil 3268.00mil 0  ""]
-Rat[3347.00mil 3268.00mil 0 86.0788mm 83.0562mm 0  ""]
-Rat[86.0788mm 52.8993mm 0 86.0788mm 46.0591mm 0  ""]
-Rat[3307.00mil 628.00mil 0 3327.00mil 628.00mil 0  ""]
-Rat[3327.00mil 628.00mil 0 3347.00mil 628.00mil 0  ""]
-Rat[3347.00mil 628.00mil 0 86.0788mm 626.07mil 0  ""]
-Rat[86.0788mm 626.07mil 0 3657.00mil 628.00mil 0  ""]
-Rat[3657.00mil 628.00mil 0 3677.00mil 628.00mil 0  ""]
-Rat[3677.00mil 628.00mil 0 3697.00mil 628.00mil 0  ""]
-Rat[3697.00mil 628.00mil 0 94.9688mm 626.07mil 0  ""]
-Rat[95.0209mm 46.0591mm 0 95.2228mm 52.8993mm 0  ""]
-Rat[3667.00mil 3268.00mil 0 3687.00mil 3268.00mil 0  ""]
-Rat[3687.00mil 3268.00mil 0 3707.00mil 3268.00mil 0  ""]
-Rat[3707.00mil 3268.00mil 0 95.2228mm 83.0562mm 0  ""]
-Rat[95.2228mm 83.0562mm 0 4017.00mil 3268.00mil 0  ""]
-Rat[4017.00mil 3268.00mil 0 4037.00mil 3268.00mil 0  ""]
-Rat[4037.00mil 3268.00mil 0 4057.00mil 3268.00mil 0  ""]
-Rat[4057.00mil 3268.00mil 0 104.1128mm 83.0562mm 0  ""]
-Rat[104.1128mm 83.0562mm 0 4367.00mil 3268.00mil 0  ""]
-Rat[4367.00mil 3268.00mil 0 4387.00mil 3268.00mil 0  ""]
-Rat[4387.00mil 3268.00mil 0 4407.00mil 3268.00mil 0  ""]
-Rat[4407.00mil 3268.00mil 0 113.0028mm 83.0562mm 0  ""]
-Rat[113.0028mm 52.8993mm 0 113.0028mm 46.0591mm 0  ""]
-Rat[4367.00mil 628.00mil 0 4387.00mil 628.00mil 0  ""]
-Rat[4387.00mil 628.00mil 0 4407.00mil 628.00mil 0  ""]
-Rat[4407.00mil 628.00mil 0 113.0028mm 626.07mil 0  ""]
-Rat[4367.00mil 628.00mil 0 104.1128mm 626.07mil 0  ""]
-Rat[104.1128mm 626.07mil 0 4057.00mil 628.00mil 0  ""]
-Rat[4057.00mil 628.00mil 0 4037.00mil 628.00mil 0  ""]
-Rat[4037.00mil 628.00mil 0 4017.00mil 628.00mil 0  ""]
-Rat[13.9428mm 626.07mil 0 1252.00mil 105.00mil 0  ""]
-Rat[1252.00mil 105.00mil 0 2609.00mil 91.00mil 0  ""]
-Rat[13.9428mm 748.35mil 0 988.00mil 3484.00mil 0  ""]
-Rat[988.00mil 3484.00mil 0 2522.00mil 3951.00mil 0  ""]
-Rat[487.00mil 628.00mil 0 1152.00mil 105.00mil 0  ""]
-Rat[1152.00mil 105.00mil 0 2509.00mil 91.00mil 0  ""]
-Rat[13.9428mm 37.0421mm 0 888.00mil 3484.00mil 0  ""]
-Rat[888.00mil 3484.00mil 0 2622.00mil 3951.00mil 0  ""]
-Rat[467.00mil 628.00mil 0 1102.00mil 105.00mil 0  ""]
-Rat[1102.00mil 105.00mil 0 2459.00mil 91.00mil 0  ""]
-Rat[13.9428mm 46.0591mm 0 838.00mil 3484.00mil 0  ""]
-Rat[838.00mil 3484.00mil 0 2672.00mil 3951.00mil 0  ""]
-Rat[22.8328mm 626.07mil 0 1052.00mil 105.00mil 0  ""]
-Rat[1052.00mil 105.00mil 0 2409.00mil 91.00mil 0  ""]
-Rat[22.8328mm 748.35mil 0 788.00mil 3484.00mil 0  ""]
-Rat[788.00mil 3484.00mil 0 2722.00mil 3951.00mil 0  ""]
-Rat[857.00mil 628.00mil 0 1002.00mil 105.00mil 0  ""]
-Rat[1002.00mil 105.00mil 0 2359.00mil 91.00mil 0  ""]
-Rat[2359.00mil 91.00mil 0 3934.00mil 505.00mil 0  ""]
-Rat[22.8328mm 28.0251mm 0 738.00mil 3484.00mil 0  ""]
-Rat[738.00mil 3484.00mil 0 2772.00mil 3951.00mil 0  ""]
-Rat[837.00mil 628.00mil 0 952.00mil 105.00mil 0  ""]
-Rat[952.00mil 105.00mil 0 2309.00mil 91.00mil 0  ""]
-Rat[22.8328mm 37.0421mm 0 688.00mil 3484.00mil 0  ""]
-Rat[688.00mil 3484.00mil 0 2822.00mil 3951.00mil 0  ""]
-Rat[817.00mil 628.00mil 0 902.00mil 105.00mil 0  ""]
-Rat[902.00mil 105.00mil 0 2259.00mil 91.00mil 0  ""]
-Rat[22.8328mm 46.0591mm 0 638.00mil 3484.00mil 0  ""]
-Rat[638.00mil 3484.00mil 0 2872.00mil 3951.00mil 0  ""]
-Rat[31.9768mm 626.07mil 0 902.00mil 531.00mil 0  ""]
-Rat[31.9768mm 626.07mil 0 2259.00mil 517.00mil 0  ""]
-Rat[2259.00mil 517.00mil 0 2872.00mil 3525.00mil 0  ""]
-Rat[2872.00mil 3525.00mil 0 638.00mil 3910.00mil 0  ""]
-Rat[1217.00mil 628.00mil 0 952.00mil 531.00mil 0  ""]
-Rat[31.9768mm 20.8262mm 0 2309.00mil 517.00mil 0  ""]
-Rat[31.9019mm 28.0251mm 0 688.00mil 3910.00mil 0  ""]
-Rat[688.00mil 3910.00mil 0 2822.00mil 3525.00mil 0  ""]
-Rat[1197.00mil 628.00mil 0 1002.00mil 531.00mil 0  ""]
-Rat[1197.00mil 628.00mil 0 2359.00mil 517.00mil 0  ""]
-Rat[31.9019mm 37.0421mm 0 738.00mil 3910.00mil 0  ""]
-Rat[738.00mil 3910.00mil 0 2772.00mil 3525.00mil 0  ""]
-Rat[1177.00mil 628.00mil 0 1052.00mil 531.00mil 0  ""]
-Rat[1177.00mil 628.00mil 0 2409.00mil 517.00mil 0  ""]
-Rat[31.9019mm 46.0591mm 0 788.00mil 3910.00mil 0  ""]
-Rat[788.00mil 3910.00mil 0 2722.00mil 3525.00mil 0  ""]
-Rat[40.8668mm 626.07mil 0 1102.00mil 531.00mil 0  ""]
-Rat[40.8668mm 626.07mil 0 2459.00mil 517.00mil 0  ""]
-Rat[40.9189mm 748.35mil 0 2672.00mil 3525.00mil 0  ""]
-Rat[2672.00mil 3525.00mil 0 838.00mil 3910.00mil 0  ""]
-Rat[1567.00mil 628.00mil 0 1152.00mil 531.00mil 0  ""]
-Rat[1567.00mil 628.00mil 0 2509.00mil 517.00mil 0  ""]
-Rat[40.9189mm 28.0251mm 0 2622.00mil 3525.00mil 0  ""]
-Rat[2622.00mil 3525.00mil 0 888.00mil 3910.00mil 0  ""]
-Rat[1547.00mil 628.00mil 0 1202.00mil 531.00mil 0  ""]
-Rat[1547.00mil 628.00mil 0 2559.00mil 517.00mil 0  ""]
-Rat[40.9189mm 37.0421mm 0 2572.00mil 3525.00mil 0  ""]
-Rat[2572.00mil 3525.00mil 0 938.00mil 3910.00mil 0  ""]
-Rat[1527.00mil 628.00mil 0 1252.00mil 531.00mil 0  ""]
-Rat[1527.00mil 628.00mil 0 2609.00mil 517.00mil 0  ""]
-Rat[40.9189mm 46.0591mm 0 2522.00mil 3525.00mil 0  ""]
-Rat[2522.00mil 3525.00mil 0 988.00mil 3910.00mil 0  ""]
-Rat[13.9428mm 61.9163mm 0 1202.00mil 105.00mil 0  ""]
-Rat[49.9359mm 28.0251mm 0 938.00mil 3484.00mil 0  ""]
-Rat[2572.00mil 3951.00mil 0 3834.00mil 505.00mil 0  ""]
-Rat[2422.00mil 3525.00mil 0 3634.00mil 505.00mil 0  ""]
+
+Element["" "0603" "R1" "360" 1586.00mil 378.00mil 76.09mil -13.50mil 0 100 ""]
+(
+	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
+	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
+
+	)
+
+Element["" "0603" "R2" "360" 33.6400mm 3746.00mil 70.50mil -19.50mil 0 100 ""]
+(
+	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
+	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
+
+	)
+
+Element["" "0603" "R3" "360" 2924.00mil 316.00mil 70.50mil -35.50mil 0 100 ""]
+(
+	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
+	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
+
+	)
+
+Element["" "0603" "R4" "360" 76.2612mm 3742.00mil 76.50mil -27.50mil 0 100 ""]
+(
+	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
+	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
+
+	)
+
+Element["" "0603" "R5" "360" 4300.00mil 332.00mil 62.50mil -31.50mil 0 100 ""]
+(
+	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
+	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
+
+	)
+
+Element["" "0603" "R6" "360" 4322.00mil 3778.00mil 70.50mil -31.50mil 0 100 ""]
+(
+	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
+	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
+
+	)
 Rat[1352.00mil 105.00mil 0 2709.00mil 91.00mil 0  ""]
 Rat[2709.00mil 91.00mil 0 3684.00mil 505.00mil 0  ""]
 Rat[1352.00mil 105.00mil 0 1088.00mil 3484.00mil 0  ""]
 Rat[1088.00mil 3484.00mil 0 2422.00mil 3951.00mil 0  ""]
 Rat[2422.00mil 3951.00mil 0 3750.00mil 3944.00mil 0  ""]
+Rat[89.1037mm 667.65mil 0 3584.00mil 505.00mil 0  ""]
+Rat[25.9847mm 82.1271mm 0 1188.00mil 3484.00mil 0  ""]
+Rat[1188.00mil 3484.00mil 0 1350.00mil 95.0234mm 0  ""]
+Rat[43.9438mm 667.65mil 0 40.9344mm 373.08mil 0  ""]
+Rat[40.9344mm 373.08mil 0 1452.00mil 105.00mil 0  ""]
+Rat[107.1377mm 667.65mil 0 109.8700mm 327.08mil 0  ""]
+Rat[71.0697mm 667.65mil 0 74.9196mm 311.08mil 0  ""]
+Rat[74.9196mm 311.08mil 0 2809.00mil 91.00mil 0  ""]
+Rat[80.0118mm 82.1271mm 0 3028.00mil 94.9218mm 0  ""]
+Rat[107.1377mm 82.1271mm 0 110.4288mm 95.8362mm 0  ""]
+Rat[3028.00mil 94.9218mm 0 3650.00mil 3944.00mil 0  ""]
+Rat[61.9778mm 82.1271mm 0 2322.00mil 3951.00mil 0  ""]
 Rat[1302.00mil 105.00mil 0 2659.00mil 91.00mil 0  ""]
 Rat[2659.00mil 91.00mil 0 3734.00mil 505.00mil 0  ""]
 Rat[1302.00mil 105.00mil 0 1038.00mil 3484.00mil 0  ""]
@@ -2090,10 +2026,113 @@ Rat[2659.00mil 517.00mil 0 3734.00mil 79.00mil 0  ""]
 Rat[2659.00mil 517.00mil 0 2472.00mil 3525.00mil 0  ""]
 Rat[2472.00mil 3525.00mil 0 3800.00mil 3518.00mil 0  ""]
 Rat[2472.00mil 3525.00mil 0 1038.00mil 3910.00mil 0  ""]
+Rat[13.9428mm 626.07mil 0 1252.00mil 105.00mil 0  ""]
+Rat[507.00mil 628.00mil 0 1202.00mil 105.00mil 0  ""]
+Rat[487.00mil 628.00mil 0 1152.00mil 105.00mil 0  ""]
+Rat[467.00mil 628.00mil 0 1102.00mil 105.00mil 0  ""]
+Rat[22.8328mm 626.07mil 0 1052.00mil 105.00mil 0  ""]
+Rat[857.00mil 628.00mil 0 1002.00mil 105.00mil 0  ""]
+Rat[1002.00mil 105.00mil 0 3934.00mil 505.00mil 0  ""]
+Rat[837.00mil 628.00mil 0 952.00mil 105.00mil 0  ""]
+Rat[817.00mil 628.00mil 0 902.00mil 105.00mil 0  ""]
+Rat[31.9768mm 626.07mil 0 902.00mil 531.00mil 0  ""]
+Rat[1217.00mil 628.00mil 0 952.00mil 531.00mil 0  ""]
+Rat[1197.00mil 628.00mil 0 1002.00mil 531.00mil 0  ""]
+Rat[1177.00mil 628.00mil 0 1052.00mil 531.00mil 0  ""]
+Rat[40.8668mm 626.07mil 0 1102.00mil 531.00mil 0  ""]
+Rat[1567.00mil 628.00mil 0 1152.00mil 531.00mil 0  ""]
+Rat[1547.00mil 628.00mil 0 1202.00mil 531.00mil 0  ""]
+Rat[1527.00mil 628.00mil 0 1252.00mil 531.00mil 0  ""]
+Rat[467.00mil 3268.00mil 0 988.00mil 3484.00mil 0  ""]
+Rat[487.00mil 3268.00mil 0 938.00mil 3484.00mil 0  ""]
+Rat[507.00mil 3268.00mil 0 888.00mil 3484.00mil 0  ""]
+Rat[13.9428mm 83.0562mm 0 838.00mil 3484.00mil 0  ""]
+Rat[817.00mil 3268.00mil 0 788.00mil 3484.00mil 0  ""]
+Rat[837.00mil 3268.00mil 0 738.00mil 3484.00mil 0  ""]
+Rat[857.00mil 3268.00mil 0 688.00mil 3484.00mil 0  ""]
+Rat[22.8328mm 83.0562mm 0 638.00mil 3484.00mil 0  ""]
+Rat[1177.00mil 3268.00mil 0 638.00mil 3910.00mil 0  ""]
+Rat[1197.00mil 3268.00mil 0 688.00mil 3910.00mil 0  ""]
+Rat[1217.00mil 3268.00mil 0 738.00mil 3910.00mil 0  ""]
+Rat[31.9768mm 83.0562mm 0 788.00mil 3910.00mil 0  ""]
+Rat[1537.00mil 3268.00mil 0 838.00mil 3910.00mil 0  ""]
+Rat[1557.00mil 3268.00mil 0 888.00mil 3910.00mil 0  ""]
+Rat[1577.00mil 3268.00mil 0 938.00mil 3910.00mil 0  ""]
+Rat[41.1208mm 83.0562mm 0 988.00mil 3910.00mil 0  ""]
+Rat[50.0108mm 626.07mil 0 2609.00mil 91.00mil 0  ""]
+Rat[1927.00mil 628.00mil 0 2559.00mil 91.00mil 0  ""]
+Rat[1907.00mil 628.00mil 0 2509.00mil 91.00mil 0  ""]
+Rat[1887.00mil 628.00mil 0 2459.00mil 91.00mil 0  ""]
+Rat[58.9008mm 626.07mil 0 2409.00mil 91.00mil 0  ""]
+Rat[2277.00mil 628.00mil 0 2359.00mil 91.00mil 0  ""]
+Rat[2257.00mil 628.00mil 0 2309.00mil 91.00mil 0  ""]
+Rat[2237.00mil 628.00mil 0 2259.00mil 91.00mil 0  ""]
+Rat[68.0448mm 626.07mil 0 2259.00mil 517.00mil 0  ""]
+Rat[2637.00mil 628.00mil 0 2309.00mil 517.00mil 0  ""]
+Rat[2617.00mil 628.00mil 0 2359.00mil 517.00mil 0  ""]
+Rat[2597.00mil 628.00mil 0 2409.00mil 517.00mil 0  ""]
+Rat[76.9348mm 626.07mil 0 2459.00mil 517.00mil 0  ""]
+Rat[2987.00mil 628.00mil 0 2509.00mil 517.00mil 0  ""]
+Rat[2967.00mil 628.00mil 0 2559.00mil 517.00mil 0  ""]
+Rat[2947.00mil 628.00mil 0 2609.00mil 517.00mil 0  ""]
+Rat[1887.00mil 3268.00mil 0 2522.00mil 3951.00mil 0  ""]
+Rat[1907.00mil 3268.00mil 0 2572.00mil 3951.00mil 0  ""]
+Rat[1927.00mil 3268.00mil 0 2622.00mil 3951.00mil 0  ""]
+Rat[50.0108mm 83.0562mm 0 2672.00mil 3951.00mil 0  ""]
+Rat[2237.00mil 3268.00mil 0 2722.00mil 3951.00mil 0  ""]
+Rat[2257.00mil 3268.00mil 0 2772.00mil 3951.00mil 0  ""]
+Rat[2277.00mil 3268.00mil 0 2822.00mil 3951.00mil 0  ""]
+Rat[58.9008mm 83.0562mm 0 2872.00mil 3951.00mil 0  ""]
+Rat[2597.00mil 3268.00mil 0 2872.00mil 3525.00mil 0  ""]
+Rat[2617.00mil 3268.00mil 0 2822.00mil 3525.00mil 0  ""]
+Rat[2637.00mil 3268.00mil 0 2772.00mil 3525.00mil 0  ""]
+Rat[68.0448mm 83.0562mm 0 2722.00mil 3525.00mil 0  ""]
+Rat[2947.00mil 3268.00mil 0 2672.00mil 3525.00mil 0  ""]
+Rat[2967.00mil 3268.00mil 0 2622.00mil 3525.00mil 0  ""]
+Rat[2987.00mil 3268.00mil 0 2572.00mil 3525.00mil 0  ""]
+Rat[76.9348mm 83.0562mm 0 2522.00mil 3525.00mil 0  ""]
+Rat[86.0788mm 626.07mil 0 3784.00mil 505.00mil 0  ""]
+Rat[3347.00mil 628.00mil 0 3834.00mil 505.00mil 0  ""]
+Rat[3327.00mil 628.00mil 0 3884.00mil 505.00mil 0  ""]
+Rat[94.9688mm 626.07mil 0 3984.00mil 505.00mil 0  ""]
+Rat[3697.00mil 628.00mil 0 4034.00mil 505.00mil 0  ""]
+Rat[3677.00mil 628.00mil 0 4084.00mil 505.00mil 0  ""]
+Rat[3657.00mil 628.00mil 0 4134.00mil 505.00mil 0  ""]
+Rat[104.1128mm 626.07mil 0 4134.00mil 79.00mil 0  ""]
+Rat[4057.00mil 628.00mil 0 4084.00mil 79.00mil 0  ""]
+Rat[4037.00mil 628.00mil 0 4034.00mil 79.00mil 0  ""]
+Rat[4017.00mil 628.00mil 0 3984.00mil 79.00mil 0  ""]
+Rat[113.0028mm 626.07mil 0 3934.00mil 79.00mil 0  ""]
+Rat[4407.00mil 628.00mil 0 3884.00mil 79.00mil 0  ""]
+Rat[4387.00mil 628.00mil 0 3834.00mil 79.00mil 0  ""]
+Rat[4367.00mil 628.00mil 0 3784.00mil 79.00mil 0  ""]
+Rat[3307.00mil 3268.00mil 0 3850.00mil 3944.00mil 0  ""]
+Rat[3327.00mil 3268.00mil 0 3900.00mil 3944.00mil 0  ""]
+Rat[3347.00mil 3268.00mil 0 3950.00mil 3944.00mil 0  ""]
+Rat[86.0788mm 83.0562mm 0 4000.00mil 3944.00mil 0  ""]
+Rat[3667.00mil 3268.00mil 0 4050.00mil 3944.00mil 0  ""]
+Rat[3687.00mil 3268.00mil 0 4100.00mil 3944.00mil 0  ""]
+Rat[3707.00mil 3268.00mil 0 4150.00mil 3944.00mil 0  ""]
+Rat[95.2228mm 83.0562mm 0 4200.00mil 3944.00mil 0  ""]
+Rat[4017.00mil 3268.00mil 0 4200.00mil 3518.00mil 0  ""]
+Rat[4037.00mil 3268.00mil 0 4150.00mil 3518.00mil 0  ""]
+Rat[4057.00mil 3268.00mil 0 4100.00mil 3518.00mil 0  ""]
+Rat[104.1128mm 83.0562mm 0 4050.00mil 3518.00mil 0  ""]
+Rat[4367.00mil 3268.00mil 0 4000.00mil 3518.00mil 0  ""]
+Rat[4387.00mil 3268.00mil 0 3950.00mil 3518.00mil 0  ""]
+Rat[4407.00mil 3268.00mil 0 3900.00mil 3518.00mil 0  ""]
+Rat[113.0028mm 83.0562mm 0 3850.00mil 3518.00mil 0  ""]
+Rat[2422.00mil 3525.00mil 0 3634.00mil 505.00mil 0  ""]
 Rat[3684.00mil 79.00mil 0 3700.00mil 3944.00mil 0  ""]
+Rat[108.5700mm 327.08mil 0 3634.00mil 79.00mil 0  ""]
 Rat[2709.00mil 517.00mil 0 2372.00mil 3951.00mil 0  ""]
+Rat[75.6112mm 94.9218mm 0 2372.00mil 3525.00mil 0  ""]
+Rat[109.1288mm 95.8362mm 0 3700.00mil 3518.00mil 0  ""]
 Rat[1088.00mil 3910.00mil 0 2759.00mil 91.00mil 0  ""]
+Rat[73.6196mm 311.08mil 0 2759.00mil 517.00mil 0  ""]
 Rat[1352.00mil 531.00mil 0 1138.00mil 3484.00mil 0  ""]
+Rat[32.9900mm 95.0234mm 0 1138.00mil 3910.00mil 0  ""]
+Rat[39.6344mm 373.08mil 0 1402.00mil 531.00mil 0  ""]
 Rat[1452.00mil 531.00mil 0 2809.00mil 517.00mil 0  ""]
 Rat[2809.00mil 517.00mil 0 3584.00mil 79.00mil 0  ""]
 Rat[2809.00mil 517.00mil 0 2322.00mil 3525.00mil 0  ""]
@@ -2388,6 +2427,19 @@ Layer(10 "top silk" "silk")
 )
 NetList()
 (
+	Net("CLK" "(unknown)")
+	(
+		Connect("U1-3")
+		Connect("U2-3")
+		Connect("U3-3")
+		Connect("U4-3")
+		Connect("U5-3")
+		Connect("U6-3")
+	)
+	Net("DIN" "(unknown)")
+	(
+		Connect("U1-2")
+	)
 	Net("GND" "(unknown)")
 	(
 		Connect("D1-2")
@@ -2486,6 +2538,12 @@ NetList()
 		Connect("D94-2")
 		Connect("D95-2")
 		Connect("D96-2")
+		Connect("R1-2")
+		Connect("R2-2")
+		Connect("R3-2")
+		Connect("R4-2")
+		Connect("R5-2")
+		Connect("R6-2")
 		Connect("U1-1")
 		Connect("U2-1")
 		Connect("U3-1")
@@ -2493,439 +2551,502 @@ NetList()
 		Connect("U5-1")
 		Connect("U6-1")
 	)
-	Net("IO" "(unknown)")
+	Net("LE" "(unknown)")
 	(
-		Connect("D49-1")
-		Connect("D50-1")
-		Connect("D51-1")
-		Connect("D52-1")
-		Connect("D53-1")
-		Connect("D54-1")
-		Connect("D55-1")
-		Connect("D56-1")
-		Connect("D57-1")
-		Connect("D58-1")
-		Connect("D59-1")
-		Connect("D60-1")
-		Connect("D61-1")
-		Connect("D62-1")
-		Connect("D63-1")
-		Connect("D64-1")
-		Connect("D65-1")
-		Connect("D66-1")
-		Connect("D67-1")
-		Connect("D68-1")
-		Connect("D69-1")
-		Connect("D70-1")
-		Connect("D71-1")
-		Connect("D72-1")
-		Connect("D73-1")
-		Connect("D74-1")
-		Connect("D75-1")
-		Connect("D76-1")
-		Connect("D77-1")
-		Connect("D78-1")
-		Connect("D79-1")
-		Connect("D80-1")
-		Connect("D81-1")
-		Connect("D82-1")
-		Connect("D83-1")
-		Connect("D84-1")
-		Connect("D85-1")
-		Connect("D86-1")
-		Connect("D87-1")
-		Connect("D88-1")
-		Connect("D89-1")
-		Connect("D90-1")
-		Connect("D91-1")
-		Connect("D92-1")
-		Connect("D93-1")
-		Connect("D94-1")
-		Connect("D95-1")
-		Connect("D96-1")
+		Connect("U1-4")
+		Connect("U2-4")
+		Connect("U3-4")
+		Connect("U4-4")
+		Connect("U5-4")
+		Connect("U6-4")
+	)
+	Net("OE" "(unknown)")
+	(
+		Connect("U1-21")
+		Connect("U2-21")
+		Connect("U3-21")
+		Connect("U4-21")
+		Connect("U5-21")
+		Connect("U6-21")
 	)
 	Net("out1-0" "(unknown)")
 	(
 		Connect("D1-1")
 		Connect("U1-5")
-		Connect("U2-5")
-		Connect("U3-5")
-		Connect("U4-5")
 	)
 	Net("out1-1" "(unknown)")
 	(
 		Connect("D2-1")
+		Connect("U1-6")
 	)
 	Net("out1-2" "(unknown)")
 	(
 		Connect("D3-1")
 		Connect("U1-7")
-		Connect("U2-7")
-		Connect("U3-7")
-		Connect("U4-7")
 	)
 	Net("out1-3" "(unknown)")
 	(
 		Connect("D4-1")
 		Connect("U1-8")
-		Connect("U2-8")
-		Connect("U3-8")
-		Connect("U4-8")
 	)
 	Net("out1-4" "(unknown)")
 	(
 		Connect("D5-1")
 		Connect("U1-9")
-		Connect("U2-9")
-		Connect("U3-9")
-		Connect("U4-9")
 	)
 	Net("out1-5" "(unknown)")
 	(
 		Connect("D6-1")
 		Connect("U1-10")
-		Connect("U2-10")
-		Connect("U3-10")
-		Connect("U4-10")
 		Connect("U5-8")
 	)
 	Net("out1-6" "(unknown)")
 	(
 		Connect("D7-1")
 		Connect("U1-11")
-		Connect("U2-11")
-		Connect("U3-11")
-		Connect("U4-11")
 	)
 	Net("out1-7" "(unknown)")
 	(
 		Connect("D8-1")
 		Connect("U1-12")
-		Connect("U2-12")
-		Connect("U3-12")
-		Connect("U4-12")
 	)
 	Net("out1-8" "(unknown)")
 	(
 		Connect("D9-1")
 		Connect("U1-13")
-		Connect("U2-13")
-		Connect("U3-13")
-		Connect("U4-13")
 	)
 	Net("out1-9" "(unknown)")
 	(
 		Connect("D10-1")
 		Connect("U1-14")
-		Connect("U2-14")
-		Connect("U3-14")
-		Connect("U4-14")
 	)
 	Net("out1-10" "(unknown)")
 	(
 		Connect("D11-1")
 		Connect("U1-15")
-		Connect("U2-15")
-		Connect("U3-15")
-		Connect("U4-15")
 	)
 	Net("out1-11" "(unknown)")
 	(
 		Connect("D12-1")
 		Connect("U1-16")
-		Connect("U2-16")
-		Connect("U3-16")
-		Connect("U4-16")
 	)
 	Net("out1-12" "(unknown)")
 	(
 		Connect("D13-1")
 		Connect("U1-17")
-		Connect("U2-17")
-		Connect("U3-17")
-		Connect("U4-17")
 	)
 	Net("out1-13" "(unknown)")
 	(
 		Connect("D14-1")
 		Connect("U1-18")
-		Connect("U2-18")
-		Connect("U3-18")
-		Connect("U4-18")
 	)
 	Net("out1-14" "(unknown)")
 	(
 		Connect("D15-1")
 		Connect("U1-19")
-		Connect("U2-19")
-		Connect("U3-19")
-		Connect("U4-19")
 	)
 	Net("out1-15" "(unknown)")
 	(
 		Connect("D16-1")
 		Connect("U1-20")
-		Connect("U2-20")
-		Connect("U3-20")
-		Connect("U4-20")
 	)
 	Net("out2-0" "(unknown)")
 	(
 		Connect("D17-1")
+		Connect("U2-5")
 	)
 	Net("out2-1" "(unknown)")
 	(
 		Connect("D18-1")
-		Connect("U1-6")
+		Connect("U2-6")
 	)
 	Net("out2-2" "(unknown)")
 	(
 		Connect("D19-1")
+		Connect("U2-7")
 	)
 	Net("out2-3" "(unknown)")
 	(
 		Connect("D20-1")
+		Connect("U2-8")
 	)
 	Net("out2-4" "(unknown)")
 	(
 		Connect("D21-1")
+		Connect("U2-9")
 	)
 	Net("out2-5" "(unknown)")
 	(
 		Connect("D22-1")
+		Connect("U2-10")
 	)
 	Net("out2-6" "(unknown)")
 	(
 		Connect("D23-1")
+		Connect("U2-11")
 	)
 	Net("out2-7" "(unknown)")
 	(
 		Connect("D24-1")
+		Connect("U2-12")
 	)
 	Net("out2-8" "(unknown)")
 	(
 		Connect("D25-1")
+		Connect("U2-13")
 	)
 	Net("out2-9" "(unknown)")
 	(
 		Connect("D26-1")
+		Connect("U2-14")
 	)
 	Net("out2-10" "(unknown)")
 	(
 		Connect("D27-1")
+		Connect("U2-15")
 	)
 	Net("out2-11" "(unknown)")
 	(
 		Connect("D28-1")
+		Connect("U2-16")
 	)
 	Net("out2-12" "(unknown)")
 	(
 		Connect("D29-1")
+		Connect("U2-17")
 	)
 	Net("out2-13" "(unknown)")
 	(
 		Connect("D30-1")
+		Connect("U2-18")
 	)
 	Net("out2-14" "(unknown)")
 	(
 		Connect("D31-1")
+		Connect("U2-19")
 	)
 	Net("out2-15" "(unknown)")
 	(
 		Connect("D32-1")
+		Connect("U2-20")
 	)
 	Net("out3-0" "(unknown)")
 	(
 		Connect("D33-1")
+		Connect("U3-5")
 	)
 	Net("out3-1" "(unknown)")
 	(
 		Connect("D34-1")
-		Connect("U2-6")
+		Connect("U3-6")
 	)
 	Net("out3-2" "(unknown)")
 	(
 		Connect("D35-1")
+		Connect("U3-7")
 	)
 	Net("out3-3" "(unknown)")
 	(
 		Connect("D36-1")
+		Connect("U3-8")
 	)
 	Net("out3-4" "(unknown)")
 	(
 		Connect("D37-1")
+		Connect("U3-9")
 	)
 	Net("out3-5" "(unknown)")
 	(
 		Connect("D38-1")
+		Connect("U3-10")
 	)
 	Net("out3-6" "(unknown)")
 	(
 		Connect("D39-1")
+		Connect("U3-11")
 	)
 	Net("out3-7" "(unknown)")
 	(
 		Connect("D40-1")
+		Connect("U3-12")
 	)
 	Net("out3-8" "(unknown)")
 	(
 		Connect("D41-1")
+		Connect("U3-13")
 	)
 	Net("out3-9" "(unknown)")
 	(
 		Connect("D42-1")
+		Connect("U3-14")
 	)
 	Net("out3-10" "(unknown)")
 	(
 		Connect("D43-1")
+		Connect("U3-15")
 	)
 	Net("out3-11" "(unknown)")
 	(
 		Connect("D44-1")
+		Connect("U3-16")
 	)
 	Net("out3-12" "(unknown)")
 	(
 		Connect("D45-1")
+		Connect("U3-17")
 	)
 	Net("out3-13" "(unknown)")
 	(
 		Connect("D46-1")
+		Connect("U3-18")
 	)
 	Net("out3-14" "(unknown)")
 	(
 		Connect("D47-1")
+		Connect("U3-19")
 	)
 	Net("out3-15" "(unknown)")
 	(
 		Connect("D48-1")
+		Connect("U3-20")
+	)
+	Net("out4-0" "(unknown)")
+	(
+		Connect("D49-1")
+		Connect("U4-5")
 	)
 	Net("out4-1" "(unknown)")
 	(
-		Connect("U3-6")
+		Connect("D50-1")
+		Connect("U4-6")
+	)
+	Net("out4-2" "(unknown)")
+	(
+		Connect("D51-1")
+		Connect("U4-7")
+	)
+	Net("out4-3" "(unknown)")
+	(
+		Connect("D52-1")
+		Connect("U4-8")
+	)
+	Net("out4-4" "(unknown)")
+	(
+		Connect("D53-1")
+		Connect("U4-9")
+	)
+	Net("out4-5" "(unknown)")
+	(
+		Connect("D54-1")
+		Connect("U4-10")
+	)
+	Net("out4-6" "(unknown)")
+	(
+		Connect("D55-1")
+		Connect("U4-11")
+	)
+	Net("out4-7" "(unknown)")
+	(
+		Connect("D56-1")
+		Connect("U4-12")
+	)
+	Net("out4-8" "(unknown)")
+	(
+		Connect("D57-1")
+		Connect("U4-13")
+	)
+	Net("out4-9" "(unknown)")
+	(
+		Connect("D58-1")
+		Connect("U4-14")
+	)
+	Net("out4-10" "(unknown)")
+	(
+		Connect("D59-1")
+		Connect("U4-15")
+	)
+	Net("out4-11" "(unknown)")
+	(
+		Connect("D60-1")
+		Connect("U4-16")
+	)
+	Net("out4-12" "(unknown)")
+	(
+		Connect("D61-1")
+		Connect("U4-17")
+	)
+	Net("out4-13" "(unknown)")
+	(
+		Connect("D62-1")
+		Connect("U4-18")
+	)
+	Net("out4-14" "(unknown)")
+	(
+		Connect("D63-1")
+		Connect("U4-19")
+	)
+	Net("out4-15" "(unknown)")
+	(
+		Connect("D64-1")
+		Connect("U4-20")
 	)
 	Net("out5-0" "(unknown)")
 	(
+		Connect("D65-1")
 		Connect("U5-5")
 	)
 	Net("out5-1" "(unknown)")
 	(
-		Connect("U4-6")
+		Connect("D66-1")
 		Connect("U5-6")
 	)
 	Net("out5-2" "(unknown)")
 	(
+		Connect("D67-1")
 		Connect("U5-7")
+	)
+	Net("out5-3" "(unknown)")
+	(
+		Connect("D68-1")
 	)
 	Net("out5-4" "(unknown)")
 	(
+		Connect("D69-1")
 		Connect("U5-9")
 	)
 	Net("out5-5" "(unknown)")
 	(
+		Connect("D70-1")
 		Connect("U5-10")
 	)
 	Net("out5-6" "(unknown)")
 	(
+		Connect("D71-1")
 		Connect("U5-11")
 	)
 	Net("out5-7" "(unknown)")
 	(
+		Connect("D72-1")
 		Connect("U5-12")
 	)
 	Net("out5-8" "(unknown)")
 	(
+		Connect("D73-1")
 		Connect("U5-13")
 	)
 	Net("out5-9" "(unknown)")
 	(
+		Connect("D74-1")
 		Connect("U5-14")
 	)
 	Net("out5-10" "(unknown)")
 	(
+		Connect("D75-1")
 		Connect("U5-15")
 	)
 	Net("out5-11" "(unknown)")
 	(
+		Connect("D76-1")
 		Connect("U5-16")
 	)
 	Net("out5-12" "(unknown)")
 	(
+		Connect("D77-1")
 		Connect("U5-17")
 	)
 	Net("out5-13" "(unknown)")
 	(
+		Connect("D78-1")
 		Connect("U5-18")
 	)
 	Net("out5-14" "(unknown)")
 	(
+		Connect("D79-1")
 		Connect("U5-19")
 	)
 	Net("out5-15" "(unknown)")
 	(
+		Connect("D80-1")
 		Connect("U5-20")
 	)
 	Net("out6-0" "(unknown)")
 	(
+		Connect("D81-1")
 		Connect("U6-5")
 	)
 	Net("out6-1" "(unknown)")
 	(
+		Connect("D82-1")
 		Connect("U6-6")
 	)
 	Net("out6-2" "(unknown)")
 	(
+		Connect("D83-1")
 		Connect("U6-7")
 	)
 	Net("out6-3" "(unknown)")
 	(
+		Connect("D84-1")
 		Connect("U6-8")
 	)
 	Net("out6-4" "(unknown)")
 	(
+		Connect("D85-1")
 		Connect("U6-9")
 	)
 	Net("out6-5" "(unknown)")
 	(
+		Connect("D86-1")
 		Connect("U6-10")
 	)
 	Net("out6-6" "(unknown)")
 	(
+		Connect("D87-1")
 		Connect("U6-11")
 	)
 	Net("out6-7" "(unknown)")
 	(
+		Connect("D88-1")
 		Connect("U6-12")
 	)
 	Net("out6-8" "(unknown)")
 	(
+		Connect("D89-1")
 		Connect("U6-13")
 	)
 	Net("out6-9" "(unknown)")
 	(
+		Connect("D90-1")
 		Connect("U6-14")
 	)
 	Net("out6-10" "(unknown)")
 	(
+		Connect("D91-1")
 		Connect("U6-15")
 	)
 	Net("out6-11" "(unknown)")
 	(
+		Connect("D92-1")
 		Connect("U6-16")
 	)
 	Net("out6-12" "(unknown)")
 	(
+		Connect("D93-1")
 		Connect("U6-17")
 	)
 	Net("out6-13" "(unknown)")
 	(
+		Connect("D94-1")
 		Connect("U6-18")
 	)
 	Net("out6-14" "(unknown)")
 	(
+		Connect("D95-1")
 		Connect("U6-19")
 	)
 	Net("out6-15" "(unknown)")
 	(
+		Connect("D96-1")
 		Connect("U6-20")
 	)
 	Net("unnamed_net1" "(unknown)")
@@ -2935,40 +3056,28 @@ NetList()
 	)
 	Net("unnamed_net2" "(unknown)")
 	(
-		Connect("U1-3")
-		Connect("U2-3")
-		Connect("U3-3")
-		Connect("U4-3")
-		Connect("U5-3")
-		Connect("U6-3")
-	)
-	Net("unnamed_net3" "(unknown)")
-	(
-		Connect("U1-4")
-		Connect("U2-4")
-		Connect("U3-4")
-		Connect("U4-4")
-		Connect("U5-4")
-		Connect("U6-4")
-	)
-	Net("unnamed_net4" "(unknown)")
-	(
-		Connect("U1-21")
-		Connect("U2-21")
-		Connect("U3-21")
-		Connect("U4-21")
-		Connect("U5-21")
-		Connect("U6-21")
-	)
-	Net("unnamed_net5" "(unknown)")
-	(
 		Connect("U5-22")
 		Connect("U6-2")
 	)
-	Net("unnamed_net6" "(unknown)")
+	Net("unnamed_net3" "(unknown)")
+	(
+		Connect("R5-1")
+		Connect("U5-23")
+	)
+	Net("unnamed_net4" "(unknown)")
 	(
 		Connect("U3-22")
 		Connect("U4-2")
+	)
+	Net("unnamed_net5" "(unknown)")
+	(
+		Connect("R4-1")
+		Connect("U4-23")
+	)
+	Net("unnamed_net6" "(unknown)")
+	(
+		Connect("R6-1")
+		Connect("U6-23")
 	)
 	Net("unnamed_net7" "(unknown)")
 	(
@@ -2977,12 +3086,23 @@ NetList()
 	)
 	Net("unnamed_net8" "(unknown)")
 	(
-		Connect("U1-22")
-		Connect("U2-2")
+		Connect("R3-1")
+		Connect("U3-23")
 	)
 	Net("unnamed_net9" "(unknown)")
 	(
-		Connect("U1-2")
+		Connect("U1-22")
+		Connect("U2-2")
+	)
+	Net("unnamed_net10" "(unknown)")
+	(
+		Connect("R2-1")
+		Connect("U2-23")
+	)
+	Net("unnamed_net11" "(unknown)")
+	(
+		Connect("R1-1")
+		Connect("U1-23")
 	)
 	Net("Vcc" "(unknown)")
 	(
