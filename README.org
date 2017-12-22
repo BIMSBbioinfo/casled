@@ -43,3 +43,9 @@ I created the footprint for the XLamp LEDs from scratch according to the recomme
 The =.fp= files were moved to =./pcb/footprints= and the =.sym= file to =./pcb/symbols=.
 
 We now only need to tell =gschem= about the symbols and =pcb= about the footprints.  Run =gschem -s gschemrc cas13-led.sch= from the =pcb= directory to evaluate the code in =gschemrc= before opening up the schematic file =cas13-led.scm=.  The =gschemrc= adds the =pcb/symbols= directory to the component library.
+
+To update the PCB after changing the schematics, run the following command from the =pcb= directory:
+
+    gsch2pcb --gnetlist-arg '-lgschemrc' project
+
+The =--gnetlist-arg= option must be passed to ensure that the custom symbols and footprints are found.
