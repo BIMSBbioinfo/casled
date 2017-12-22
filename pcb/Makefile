@@ -1,2 +1,2 @@
 update:
-	gsch2pcb project
+	gsch2pcb --gnetlist-arg '-lgschemrc' project
