@@ -17,7 +17,7 @@ We also use the AVR toolchain to build the firmware binaries and upload them to 
 You can get these applications through GNU Guix:
 
 #+BEGIN_SRC bash
-guix package -i gschem pcb avr-toolchain@4
+guix package -i geda-gaf pcb avr-toolchain@4
 #+END_SRC
 
 * Footprints and symbols
