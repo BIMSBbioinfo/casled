@@ -1,4 +1,4 @@
-Element["" "Amphenol FCI Minitek SMD pin header" "" "" 0mm 0mm 0mm 25000mm 0 100 ""]
+Element["" "Amphenol FCI Minitek SMD pin header" "" "" 0mm 0mm 0mm 25000 0 100 ""]
 (
   Pad[62.5mm 1.25mm 62.5mm 2.85mm 1mm 0mm 0mm "32" "32" "square"]
   Pad[62.5mm -1.25mm 62.5mm -2.85mm 1mm 0mm 0mm "64" "64" "square"]
