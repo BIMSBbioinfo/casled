@@ -1,0 +1,111 @@
+unnamed_net11	R1-1 U1-23 
+out1-15	U1-20 
+out1-14	U1-19 
+out1-13	U1-18 
+out1-12	U1-17 
+out1-11	U1-16 
+out1-10	U1-15 
+out1-9	U1-14 
+out1-8	U1-13 
+out1-7	U1-12 
+out1-6	U1-11 
+out1-4	U1-9 
+out1-3	U1-8 
+out1-2	U1-7 
+out1-1	U1-6 
+out1-0	U1-5 
+DIN	U1-2 
+unnamed_net10	R2-1 U2-23 
+out2-15	U2-20 
+out2-14	U2-19 
+out2-13	U2-18 
+out2-12	U2-17 
+out2-11	U2-16 
+out2-10	U2-15 
+out2-9	U2-14 
+out2-8	U2-13 
+out2-7	U2-12 
+out2-6	U2-11 
+out2-5	U2-10 
+out2-4	U2-9 
+out2-3	U2-8 
+out2-2	U2-7 
+out2-1	U2-6 
+out2-0	U2-5 
+unnamed_net9	U1-22 U2-2 
+unnamed_net8	R3-1 U3-23 
+out3-15	U3-20 
+out3-14	U3-19 
+out3-13	U3-18 
+out3-12	U3-17 
+out3-11	U3-16 
+out3-10	U3-15 
+out3-9	U3-14 
+out3-8	U3-13 
+out3-7	U3-12 
+out3-6	U3-11 
+out3-5	U3-10 
+out3-4	U3-9 
+out3-3	U3-8 
+out3-2	U3-7 
+out3-1	U3-6 
+out3-0	U3-5 
+unnamed_net7	U2-22 U3-2 
+unnamed_net6	R6-1 U6-23 
+out6-15	U6-20 
+out6-14	U6-19 
+out6-13	U6-18 
+out6-12	U6-17 
+out6-11	U6-16 
+out6-10	U6-15 
+out6-9	U6-14 
+out6-8	U6-13 
+out6-7	U6-12 
+out6-6	U6-11 
+out6-5	U6-10 
+out6-4	U6-9 
+out6-3	U6-8 
+out6-2	U6-7 
+out6-1	U6-6 
+out6-0	U6-5 
+unnamed_net5	R4-1 U4-23 
+out4-15	U4-20 
+out4-14	U4-19 
+out4-13	U4-18 
+out4-12	U4-17 
+out4-11	U4-16 
+out4-10	U4-15 
+out4-9	U4-14 
+out4-8	U4-13 
+out4-7	U4-12 
+out4-6	U4-11 
+out4-5	U4-10 
+out4-4	U4-9 
+out4-3	U4-8 
+out4-2	U4-7 
+out4-1	U4-6 
+out4-0	U4-5 
+unnamed_net4	U3-22 U4-2 
+Vcc	C5-2 C1-2 U1-24 C2-2 U2-24 C3-2 U3-24 C6-2 U6-24 C4-2 U4-24 U5-24 
+unnamed_net3	R5-1 U5-23 
+unnamed_net2	U6-2 U5-22 
+out5-15	U5-20 
+out5-14	U5-19 
+out5-13	U5-18 
+out5-12	U5-17 
+out5-11	U5-16 
+out5-10	U5-15 
+out5-9	U5-14 
+out5-8	U5-13 
+out5-7	U5-12 
+out5-6	U5-11 
+out5-5	U5-10 
+out5-4	U5-9 
+out1-5	U1-10 U5-8 
+out5-2	U5-7 
+out5-1	U5-6 
+out5-0	U5-5 
+LE	U1-4 U2-4 U3-4 U6-4 U4-4 U5-4 
+CLK	U1-3 U2-3 U3-3 U6-3 U4-3 U5-3 
+unnamed_net1	U4-22 U5-2 
+GND	U1-21 U2-21 U3-21 U4-21 U6-21 U5-21 C5-1 R6-2 R5-2 R4-2 R3-2 R2-2 R1-2 C1-1 U1-1 C2-1 U2-1 C3-1 U3-1 C6-1 U6-1 C4-1 U4-1 U5-1 
