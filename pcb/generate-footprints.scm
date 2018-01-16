@@ -1,5 +1,6 @@
 (use-modules (ice-9 optargs)
-             (ice-9 format))
+             (ice-9 format)
+             (srfi srfi-1))
 
 (define* (element #:key
            (sflags "")
@@ -14,7 +15,7 @@
            (text-scale 100)
            (tsflags "")
            (pads '()))
-  (format #f  "Element[~s ~s ~s ~s ~amm ~amm ~amm ~amm ~a ~a ~s]\n(\n~{~a~})"
+  (format #f  "Element[~s ~s ~s ~s ~amm ~amm ~amm ~a ~a ~a ~s]\n(\n~{~a~})"
           sflags description name value mark-x mark-y
           text-x text-y text-direction text-scale tsflags
           pads))
@@ -36,34 +37,30 @@ two rows of PINS-PER-ROW pins."
   (define x-start (/ thickness 2))
   (define upper-y-start (+ (/ 1.5 2) (/ thickness 2)))
   (define lower-y-start (- 0 upper-y-start))
-  (let loop ((x x-start)
-             (pins (- pins-per-row 1))
-             (pads '()))
-    (let* ((counter (- pins-per-row pins))
-           (upper (pad #:rx1 x
-                       #:ry1 upper-y-start
-                       #:rx2 x
-                       #:ry2 (+ upper-y-start drawn-height)
-                       #:thickness thickness
-                       #:clearance 0
-                       #:mask 0
-                       #:name (number->string counter)
-                       #:number (number->string counter)
-                       #:sflags "square"))
-           (lower (pad #:rx1 x
-                       #:ry1 lower-y-start
-                       #:rx2 x
-                       #:ry2 (- lower-y-start drawn-height)
-                       #:thickness thickness
-                       #:clearance 0
-                       #:mask 0
-                       #:name (number->string (+ counter pins-per-row))
-                       #:number (number->string (+ counter pins-per-row))
-                       #:sflags "square")))
-      (if (zero? pins)
-          (element #:description "Amphenol FCI Minitek SMD pin header"
-                   #:text-y 25000
-                   #:pads (cons upper (cons lower pads)))
-          (loop (+ x pitch)
-                (- pins 1)
-                (cons upper (cons lower pads)))))))
+
+  (element #:description "Amphenol FCI Minitek SMD pin header"
+           #:text-y 25000
+           #:pads
+           (let ((pins (iota (* 2 pins-per-row) 1)))
+             (map (lambda (pin)
+                    (let ((x  (+ x-start (* (- (/ (if (odd? pin)
+                                                      (+ pin 1)
+                                                      pin) 2) 1)
+                                            pitch)))
+                          (y1 (if (odd? pin)
+                                  upper-y-start
+                                  lower-y-start))
+                          (y2 (if (odd? pin)
+                                  (+ upper-y-start drawn-height)
+                                  (- lower-y-start drawn-height))))
+                      (pad #:rx1 x
+                           #:ry1 y1
+                           #:rx2 x
+                           #:ry2 y2
+                           #:thickness thickness
+                           #:clearance 0
+                           #:mask 0
+                           #:name (number->string pin)
+                           #:number (number->string pin)
+                           #:sflags "square")))
+                  pins))))
