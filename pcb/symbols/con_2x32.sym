@@ -339,9 +339,9 @@ pintype=pas
 P 100 8200 200 8200 1 0 0
 {
 T 400 8200 5 10 1 1 0 4 1
-pinnumber=3
+pinnumber=23
 T 400 8200 5 10 0 1 0 4 1
-pinseq=3
+pinseq=23
 T 0 8250 5 8 0 1 0 0 1
 pintype=pas
 }
