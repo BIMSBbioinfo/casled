@@ -5,7 +5,7 @@ FileVersion[20091103]
 
 PCB["" 5118.00mil 4000.00mil]
 
-Grid[25.00mil 0.0000 0.0000 0]
+Grid[30.00mil 0.0000 0.0000 0]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[10.00mil 10.00mil 10.00mil 10.00mil 15.00mil 10.00mil]
@@ -786,14 +786,14 @@ Symbol['~' 12.00mil]
 	SymbolLine[20.00mil 35.00mil 25.00mil 30.00mil 8.00mil]
 )
 Attribute("PCB::grid::unit" "mil")
-Attribute("PCB::grid::size" "25.00mil")
+Attribute("PCB::grid::size" "30.00mil")
 
 Element["" "xlamp" "D1" "unknown" 607.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,selected,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -801,9 +801,9 @@ Element["" "xlamp" "D1" "unknown" 607.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D2" "unknown" 607.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -811,9 +811,9 @@ Element["" "xlamp" "D2" "unknown" 607.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D3" "unknown" 607.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -821,9 +821,9 @@ Element["" "xlamp" "D3" "unknown" 607.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D17" "unknown" 607.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -831,9 +831,9 @@ Element["" "xlamp" "D17" "unknown" 607.00mil 2128.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D4" "unknown" 607.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -841,9 +841,9 @@ Element["" "xlamp" "D4" "unknown" 607.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D19" "unknown" 607.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -851,9 +851,9 @@ Element["" "xlamp" "D19" "unknown" 607.00mil 2838.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D20" "unknown" 607.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -861,9 +861,9 @@ Element["" "xlamp" "D20" "unknown" 607.00mil 3193.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D18" "unknown" 607.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -871,9 +871,9 @@ Element["" "xlamp" "D18" "unknown" 607.00mil 2483.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D13" "unknown" 1672.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -881,9 +881,9 @@ Element["" "xlamp" "D13" "unknown" 1672.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D14" "unknown" 1672.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -891,9 +891,9 @@ Element["" "xlamp" "D14" "unknown" 1672.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D30" "unknown" 1672.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -901,9 +901,9 @@ Element["" "xlamp" "D30" "unknown" 1672.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D15" "unknown" 1672.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -911,9 +911,9 @@ Element["" "xlamp" "D15" "unknown" 1672.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D29" "unknown" 1672.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -921,9 +921,9 @@ Element["" "xlamp" "D29" "unknown" 1672.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D16" "unknown" 1672.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -931,9 +931,9 @@ Element["" "xlamp" "D16" "unknown" 1672.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D31" "unknown" 1672.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -941,9 +941,9 @@ Element["" "xlamp" "D31" "unknown" 1672.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D32" "unknown" 1672.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -951,9 +951,9 @@ Element["" "xlamp" "D32" "unknown" 1672.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D9" "unknown" 1317.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -961,9 +961,9 @@ Element["" "xlamp" "D9" "unknown" 1317.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D10" "unknown" 1317.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -971,9 +971,9 @@ Element["" "xlamp" "D10" "unknown" 1317.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D11" "unknown" 1317.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -981,9 +981,9 @@ Element["" "xlamp" "D11" "unknown" 1317.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D28" "unknown" 1317.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -991,9 +991,9 @@ Element["" "xlamp" "D28" "unknown" 1317.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D26" "unknown" 1317.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1001,9 +1001,9 @@ Element["" "xlamp" "D26" "unknown" 1317.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D25" "unknown" 1317.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1011,9 +1011,9 @@ Element["" "xlamp" "D25" "unknown" 1317.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D12" "unknown" 1317.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1021,9 +1021,9 @@ Element["" "xlamp" "D12" "unknown" 1317.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D27" "unknown" 1317.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1031,9 +1031,9 @@ Element["" "xlamp" "D27" "unknown" 1317.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D5" "unknown" 962.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1041,9 +1041,9 @@ Element["" "xlamp" "D5" "unknown" 962.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D6" "unknown" 962.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1051,9 +1051,9 @@ Element["" "xlamp" "D6" "unknown" 962.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D22" "unknown" 962.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1061,9 +1061,9 @@ Element["" "xlamp" "D22" "unknown" 962.00mil 2483.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D21" "unknown" 962.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1071,9 +1071,9 @@ Element["" "xlamp" "D21" "unknown" 962.00mil 2128.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D23" "unknown" 962.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1081,9 +1081,9 @@ Element["" "xlamp" "D23" "unknown" 962.00mil 2838.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D7" "unknown" 962.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1091,9 +1091,9 @@ Element["" "xlamp" "D7" "unknown" 962.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D8" "unknown" 962.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1101,9 +1101,9 @@ Element["" "xlamp" "D8" "unknown" 962.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 Element["" "xlamp" "D24" "unknown" 962.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1111,9 +1111,9 @@ Element["" "xlamp" "D24" "unknown" 962.00mil 3193.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D33" "unknown" 2027.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1121,9 +1121,9 @@ Element["" "xlamp" "D33" "unknown" 2027.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D50" "unknown" 2027.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1131,9 +1131,9 @@ Element["" "xlamp" "D50" "unknown" 2027.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D35" "unknown" 2027.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1141,9 +1141,9 @@ Element["" "xlamp" "D35" "unknown" 2027.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D49" "unknown" 2027.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1151,9 +1151,9 @@ Element["" "xlamp" "D49" "unknown" 2027.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D51" "unknown" 2027.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1161,9 +1161,9 @@ Element["" "xlamp" "D51" "unknown" 2027.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D52" "unknown" 2027.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1171,9 +1171,9 @@ Element["" "xlamp" "D52" "unknown" 2027.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D34" "unknown" 2027.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1181,9 +1181,9 @@ Element["" "xlamp" "D34" "unknown" 2027.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D36" "unknown" 2027.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1191,9 +1191,9 @@ Element["" "xlamp" "D36" "unknown" 2027.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D54" "unknown" 2382.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1201,9 +1201,9 @@ Element["" "xlamp" "D54" "unknown" 2382.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D39" "unknown" 2382.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1211,9 +1211,9 @@ Element["" "xlamp" "D39" "unknown" 2382.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D40" "unknown" 2382.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1221,9 +1221,9 @@ Element["" "xlamp" "D40" "unknown" 2382.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D55" "unknown" 2382.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1231,9 +1231,9 @@ Element["" "xlamp" "D55" "unknown" 2382.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D56" "unknown" 2382.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1241,9 +1241,9 @@ Element["" "xlamp" "D56" "unknown" 2382.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D37" "unknown" 2382.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1251,9 +1251,9 @@ Element["" "xlamp" "D37" "unknown" 2382.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D38" "unknown" 2382.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1261,9 +1261,9 @@ Element["" "xlamp" "D38" "unknown" 2382.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D53" "unknown" 2382.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1271,9 +1271,9 @@ Element["" "xlamp" "D53" "unknown" 2382.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D77" "unknown" 4512.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1281,9 +1281,9 @@ Element["" "xlamp" "D77" "unknown" 4512.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D78" "unknown" 4512.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1291,9 +1291,9 @@ Element["" "xlamp" "D78" "unknown" 4512.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D94" "unknown" 4512.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1301,9 +1301,9 @@ Element["" "xlamp" "D94" "unknown" 4512.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D79" "unknown" 4512.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1311,9 +1311,9 @@ Element["" "xlamp" "D79" "unknown" 4512.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D93" "unknown" 4512.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1321,9 +1321,9 @@ Element["" "xlamp" "D93" "unknown" 4512.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D80" "unknown" 4512.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1331,9 +1331,9 @@ Element["" "xlamp" "D80" "unknown" 4512.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D95" "unknown" 4512.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1341,9 +1341,9 @@ Element["" "xlamp" "D95" "unknown" 4512.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D96" "unknown" 4512.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1351,9 +1351,9 @@ Element["" "xlamp" "D96" "unknown" 4512.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D73" "unknown" 4157.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1361,9 +1361,9 @@ Element["" "xlamp" "D73" "unknown" 4157.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D74" "unknown" 4157.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1371,9 +1371,9 @@ Element["" "xlamp" "D74" "unknown" 4157.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D69" "unknown" 3802.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1381,9 +1381,9 @@ Element["" "xlamp" "D69" "unknown" 3802.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D70" "unknown" 3802.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1391,9 +1391,9 @@ Element["" "xlamp" "D70" "unknown" 3802.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D65" "unknown" 3447.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1401,9 +1401,9 @@ Element["" "xlamp" "D65" "unknown" 3447.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D66" "unknown" 3447.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1411,9 +1411,9 @@ Element["" "xlamp" "D66" "unknown" 3447.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D45" "unknown" 3092.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1421,9 +1421,9 @@ Element["" "xlamp" "D45" "unknown" 3092.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D46" "unknown" 3092.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1431,9 +1431,9 @@ Element["" "xlamp" "D46" "unknown" 3092.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D41" "unknown" 2737.00mil 708.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1441,9 +1441,9 @@ Element["" "xlamp" "D41" "unknown" 2737.00mil 708.00mil 0.0000 75.00mil 0 100 ""
 Element["" "xlamp" "D42" "unknown" 2737.00mil 1063.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1451,9 +1451,9 @@ Element["" "xlamp" "D42" "unknown" 2737.00mil 1063.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D90" "unknown" 4157.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1461,9 +1461,9 @@ Element["" "xlamp" "D90" "unknown" 4157.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D75" "unknown" 4157.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1471,9 +1471,9 @@ Element["" "xlamp" "D75" "unknown" 4157.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D89" "unknown" 4157.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1481,9 +1481,9 @@ Element["" "xlamp" "D89" "unknown" 4157.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D76" "unknown" 4157.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1491,9 +1491,9 @@ Element["" "xlamp" "D76" "unknown" 4157.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D86" "unknown" 3802.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1501,9 +1501,9 @@ Element["" "xlamp" "D86" "unknown" 3802.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D71" "unknown" 3802.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1511,9 +1511,9 @@ Element["" "xlamp" "D71" "unknown" 3802.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D85" "unknown" 3802.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1521,9 +1521,9 @@ Element["" "xlamp" "D85" "unknown" 3802.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D72" "unknown" 3802.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1531,9 +1531,9 @@ Element["" "xlamp" "D72" "unknown" 3802.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D82" "unknown" 3447.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1541,9 +1541,9 @@ Element["" "xlamp" "D82" "unknown" 3447.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D67" "unknown" 3447.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1551,9 +1551,9 @@ Element["" "xlamp" "D67" "unknown" 3447.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D81" "unknown" 3447.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1561,9 +1561,9 @@ Element["" "xlamp" "D81" "unknown" 3447.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D68" "unknown" 3447.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1571,9 +1571,9 @@ Element["" "xlamp" "D68" "unknown" 3447.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D62" "unknown" 3092.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1581,9 +1581,9 @@ Element["" "xlamp" "D62" "unknown" 3092.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D47" "unknown" 3092.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1591,9 +1591,9 @@ Element["" "xlamp" "D47" "unknown" 3092.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D61" "unknown" 3092.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1601,9 +1601,9 @@ Element["" "xlamp" "D61" "unknown" 3092.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D48" "unknown" 3092.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1611,9 +1611,9 @@ Element["" "xlamp" "D48" "unknown" 3092.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D58" "unknown" 2737.00mil 2483.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1621,9 +1621,9 @@ Element["" "xlamp" "D58" "unknown" 2737.00mil 2483.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D43" "unknown" 2737.00mil 1418.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1631,9 +1631,9 @@ Element["" "xlamp" "D43" "unknown" 2737.00mil 1418.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D57" "unknown" 2737.00mil 2128.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1641,9 +1641,9 @@ Element["" "xlamp" "D57" "unknown" 2737.00mil 2128.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D44" "unknown" 2737.00mil 1773.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1651,9 +1651,9 @@ Element["" "xlamp" "D44" "unknown" 2737.00mil 1773.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D91" "unknown" 4157.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1661,9 +1661,9 @@ Element["" "xlamp" "D91" "unknown" 4157.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D92" "unknown" 4157.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1671,9 +1671,9 @@ Element["" "xlamp" "D92" "unknown" 4157.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D83" "unknown" 3447.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1681,9 +1681,9 @@ Element["" "xlamp" "D83" "unknown" 3447.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D84" "unknown" 3447.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1691,9 +1691,9 @@ Element["" "xlamp" "D84" "unknown" 3447.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D87" "unknown" 3802.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1701,9 +1701,9 @@ Element["" "xlamp" "D87" "unknown" 3802.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D88" "unknown" 3802.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1711,9 +1711,9 @@ Element["" "xlamp" "D88" "unknown" 3802.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D59" "unknown" 2737.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1721,9 +1721,9 @@ Element["" "xlamp" "D59" "unknown" 2737.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D60" "unknown" 2737.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1731,9 +1731,9 @@ Element["" "xlamp" "D60" "unknown" 2737.00mil 3193.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D63" "unknown" 3092.00mil 2838.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1741,9 +1741,9 @@ Element["" "xlamp" "D63" "unknown" 3092.00mil 2838.00mil 0.0000 75.00mil 0 100 "
 Element["" "xlamp" "D64" "unknown" 3092.00mil 3193.00mil 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "found,square,connected"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
 	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
 
 	)
@@ -1798,14 +1798,14 @@ Element["" "pin-header-2x32-smd" "CONN1" "XXX" 1350.00mil 225.00mil 0.0000 250.0
 	Pad[44.5000mm -2.8500mm 44.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "46" "46" "square"]
 	Pad[46.5000mm 1.2500mm 46.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "47" "47" "square,edge2"]
 	Pad[46.5000mm -2.8500mm 46.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "48" "48" "square"]
-	Pad[48.5000mm 1.2500mm 48.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "49" "49" "found,square,edge2"]
-	Pad[48.5000mm -2.8500mm 48.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "50" "50" "found,square"]
-	Pad[50.5000mm 1.2500mm 50.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "51" "51" "found,square,edge2"]
-	Pad[50.5000mm -2.8500mm 50.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "52" "52" "found,square"]
-	Pad[52.5000mm 1.2500mm 52.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "53" "53" "found,square,edge2"]
-	Pad[52.5000mm -2.8500mm 52.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "54" "54" "found,square"]
-	Pad[54.5000mm 1.2500mm 54.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "55" "55" "found,square,edge2"]
-	Pad[54.5000mm -2.8500mm 54.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "56" "56" "found,square"]
+	Pad[48.5000mm 1.2500mm 48.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "49" "49" "square,edge2"]
+	Pad[48.5000mm -2.8500mm 48.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "50" "50" "square"]
+	Pad[50.5000mm 1.2500mm 50.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "51" "51" "square,edge2"]
+	Pad[50.5000mm -2.8500mm 50.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "52" "52" "square"]
+	Pad[52.5000mm 1.2500mm 52.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "53" "53" "square,edge2"]
+	Pad[52.5000mm -2.8500mm 52.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "54" "54" "square"]
+	Pad[54.5000mm 1.2500mm 54.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "55" "55" "square,edge2"]
+	Pad[54.5000mm -2.8500mm 54.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "56" "56" "square"]
 	Pad[56.5000mm 1.2500mm 56.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "57" "57" "square,edge2"]
 	Pad[56.5000mm -2.8500mm 56.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "58" "58" "square"]
 	Pad[58.5000mm 1.2500mm 58.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "59" "59" "square,edge2"]
@@ -1867,14 +1867,14 @@ Element["" "pin-header-2x32-smd" "CONN2" "XXX" 1350.00mil 3600.00mil 0.0000 250.
 	Pad[44.5000mm -2.8500mm 44.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "46" "46" "square"]
 	Pad[46.5000mm 1.2500mm 46.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "47" "47" "square,edge2"]
 	Pad[46.5000mm -2.8500mm 46.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "48" "48" "square"]
-	Pad[48.5000mm 1.2500mm 48.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "49" "49" "found,square,edge2"]
-	Pad[48.5000mm -2.8500mm 48.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "50" "50" "found,square"]
-	Pad[50.5000mm 1.2500mm 50.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "51" "51" "found,square,edge2"]
-	Pad[50.5000mm -2.8500mm 50.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "52" "52" "found,square"]
-	Pad[52.5000mm 1.2500mm 52.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "53" "53" "found,square,edge2"]
-	Pad[52.5000mm -2.8500mm 52.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "54" "54" "found,square"]
-	Pad[54.5000mm 1.2500mm 54.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "55" "55" "found,square,edge2"]
-	Pad[54.5000mm -2.8500mm 54.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "56" "56" "found,square"]
+	Pad[48.5000mm 1.2500mm 48.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "49" "49" "square,edge2"]
+	Pad[48.5000mm -2.8500mm 48.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "50" "50" "square"]
+	Pad[50.5000mm 1.2500mm 50.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "51" "51" "square,edge2"]
+	Pad[50.5000mm -2.8500mm 50.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "52" "52" "square"]
+	Pad[52.5000mm 1.2500mm 52.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "53" "53" "square,edge2"]
+	Pad[52.5000mm -2.8500mm 52.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "54" "54" "square"]
+	Pad[54.5000mm 1.2500mm 54.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "55" "55" "square,edge2"]
+	Pad[54.5000mm -2.8500mm 54.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "56" "56" "square"]
 	Pad[56.5000mm 1.2500mm 56.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "57" "57" "square,edge2"]
 	Pad[56.5000mm -2.8500mm 56.5000mm -1.2500mm 1.0000mm 0.0000 0.0000 "58" "58" "square"]
 	Pad[58.5000mm 1.2500mm 58.5000mm 2.8500mm 1.0000mm 0.0000 0.0000 "59" "59" "square,edge2"]
@@ -1892,7 +1892,7 @@ Rat[90.7900mm 8.5650mm 0 90.7900mm 2.8650mm 0  ""]
 Rat[90.7900mm 2.8650mm 0 92.7900mm 2.8650mm 0  ""]
 Rat[92.7900mm 2.8650mm 0 94.7900mm 2.8650mm 0  ""]
 Rat[94.7900mm 2.8650mm 0 96.7900mm 2.8650mm 0  ""]
-Rat[90.7900mm 8.5650mm 0 96.7900mm 88.5900mm 0  ""]
+Rat[96.7900mm 8.5650mm 0 96.7900mm 88.5900mm 0  ""]
 Rat[96.7900mm 88.5900mm 0 94.7900mm 88.5900mm 0  ""]
 Rat[94.7900mm 88.5900mm 0 92.7900mm 88.5900mm 0  ""]
 Rat[92.7900mm 88.5900mm 0 90.7900mm 88.5900mm 0  ""]
@@ -1916,6 +1916,22 @@ Rat[54.7900mm 8.5650mm 0 43.9438mm 655.07mil 0  ""]
 Rat[54.7900mm 2.8650mm 0 1771.00mil 630.00mil 0  ""]
 Rat[56.7900mm 8.5650mm 0 1791.00mil 611.00mil 0  ""]
 Rat[56.7900mm 2.8650mm 0 1811.00mil 591.00mil 0  ""]
+Rat[44.7900mm 94.2900mm 0 751.00mil 3270.00mil 0  ""]
+Rat[44.7900mm 88.5900mm 0 731.00mil 3270.00mil 0  ""]
+Rat[42.7900mm 94.2900mm 0 711.00mil 3270.00mil 0  ""]
+Rat[42.7900mm 88.5900mm 0 16.9944mm 83.1070mm 0  ""]
+Rat[48.7900mm 94.2900mm 0 1101.00mil 3270.00mil 0  ""]
+Rat[48.7900mm 88.5900mm 0 1081.00mil 3270.00mil 0  ""]
+Rat[46.7900mm 94.2900mm 0 1061.00mil 3270.00mil 0  ""]
+Rat[46.7900mm 88.5900mm 0 25.8844mm 83.1070mm 0  ""]
+Rat[52.7900mm 94.2900mm 0 1451.00mil 3270.00mil 0  ""]
+Rat[52.7900mm 88.5900mm 0 1431.00mil 3270.00mil 0  ""]
+Rat[50.7900mm 94.2900mm 0 1411.00mil 3270.00mil 0  ""]
+Rat[50.7900mm 88.5900mm 0 34.7744mm 83.1070mm 0  ""]
+Rat[56.7900mm 94.2900mm 0 1811.00mil 3270.00mil 0  ""]
+Rat[56.7900mm 88.5900mm 0 1791.00mil 3270.00mil 0  ""]
+Rat[54.7900mm 94.2900mm 0 1771.00mil 3270.00mil 0  ""]
+Rat[54.7900mm 88.5900mm 0 43.9184mm 83.1070mm 0  ""]
 Rat[64.7900mm 2.8650mm 0 2521.00mil 630.00mil 0  ""]
 Rat[64.7900mm 8.5650mm 0 2501.00mil 630.00mil 0  ""]
 Rat[62.7900mm 2.8650mm 0 2481.00mil 630.00mil 0  ""]
@@ -1932,6 +1948,22 @@ Rat[70.7900mm 8.5650mm 0 79.9864mm 15.9530mm 0  ""]
 Rat[70.7900mm 2.8650mm 0 3191.00mil 630.00mil 0  ""]
 Rat[72.7900mm 8.5650mm 0 3211.00mil 630.00mil 0  ""]
 Rat[72.7900mm 2.8650mm 0 3231.00mil 630.00mil 0  ""]
+Rat[60.7900mm 94.2900mm 0 2171.00mil 3270.00mil 0  ""]
+Rat[60.7900mm 88.5900mm 0 2151.00mil 3270.00mil 0  ""]
+Rat[58.7900mm 94.2900mm 0 2131.00mil 3270.00mil 0  ""]
+Rat[58.7900mm 88.5900mm 0 53.0624mm 83.1070mm 0  ""]
+Rat[64.7900mm 94.2900mm 0 2521.00mil 3270.00mil 0  ""]
+Rat[64.7900mm 88.5900mm 0 2501.00mil 3270.00mil 0  ""]
+Rat[62.7900mm 94.2900mm 0 2481.00mil 3270.00mil 0  ""]
+Rat[62.7900mm 88.5900mm 0 61.9524mm 83.1070mm 0  ""]
+Rat[68.7900mm 94.2900mm 0 2881.00mil 3270.00mil 0  ""]
+Rat[68.7900mm 88.5900mm 0 2861.00mil 3270.00mil 0  ""]
+Rat[66.7900mm 94.2900mm 0 2841.00mil 3270.00mil 0  ""]
+Rat[66.7900mm 88.5900mm 0 71.0964mm 83.1070mm 0  ""]
+Rat[72.7900mm 94.2900mm 0 3231.00mil 3270.00mil 0  ""]
+Rat[72.7900mm 88.5900mm 0 3211.00mil 3270.00mil 0  ""]
+Rat[70.7900mm 94.2900mm 0 3191.00mil 3270.00mil 0  ""]
+Rat[70.7900mm 88.5900mm 0 79.9864mm 83.1070mm 0  ""]
 Rat[80.7900mm 2.8650mm 0 3941.00mil 630.00mil 0  ""]
 Rat[80.7900mm 8.5650mm 0 3921.00mil 630.00mil 0  ""]
 Rat[78.7900mm 2.8650mm 0 3901.00mil 630.00mil 0  ""]
@@ -1948,6 +1980,22 @@ Rat[86.7900mm 8.5650mm 0 116.0544mm 15.9530mm 0  ""]
 Rat[86.7900mm 2.8650mm 0 4611.00mil 630.00mil 0  ""]
 Rat[88.7900mm 8.5650mm 0 4631.00mil 630.00mil 0  ""]
 Rat[88.7900mm 2.8650mm 0 4651.00mil 630.00mil 0  ""]
+Rat[76.7900mm 94.2900mm 0 3581.00mil 3270.00mil 0  ""]
+Rat[76.7900mm 88.5900mm 0 3561.00mil 3270.00mil 0  ""]
+Rat[74.7900mm 94.2900mm 0 3541.00mil 3270.00mil 0  ""]
+Rat[74.7900mm 88.5900mm 0 88.8764mm 83.1070mm 0  ""]
+Rat[80.7900mm 94.2900mm 0 3941.00mil 3270.00mil 0  ""]
+Rat[80.7900mm 88.5900mm 0 3921.00mil 3270.00mil 0  ""]
+Rat[78.7900mm 94.2900mm 0 3901.00mil 3270.00mil 0  ""]
+Rat[78.7900mm 88.5900mm 0 98.0204mm 83.1070mm 0  ""]
+Rat[84.7900mm 94.2900mm 0 4301.00mil 3270.00mil 0  ""]
+Rat[84.7900mm 88.5900mm 0 4281.00mil 3270.00mil 0  ""]
+Rat[82.7900mm 94.2900mm 0 4261.00mil 3270.00mil 0  ""]
+Rat[82.7900mm 88.5900mm 0 107.1644mm 83.1070mm 0  ""]
+Rat[88.7900mm 94.2900mm 0 4651.00mil 3270.00mil 0  ""]
+Rat[88.7900mm 88.5900mm 0 4631.00mil 3270.00mil 0  ""]
+Rat[86.7900mm 94.2900mm 0 4611.00mil 3270.00mil 0  ""]
+Rat[86.7900mm 88.5900mm 0 116.0544mm 83.1070mm 0  ""]
 Rat[34.7900mm 8.5650mm 0 36.7900mm 8.5650mm 0  ""]
 Rat[36.7900mm 8.5650mm 0 38.7900mm 8.5650mm 0  ""]
 Rat[38.7900mm 8.5650mm 0 40.7900mm 8.5650mm 0  ""]
@@ -1955,7 +2003,7 @@ Rat[34.7900mm 8.5650mm 0 34.7900mm 2.8650mm 0  ""]
 Rat[34.7900mm 2.8650mm 0 36.7900mm 2.8650mm 0  ""]
 Rat[36.7900mm 2.8650mm 0 38.7900mm 2.8650mm 0  ""]
 Rat[38.7900mm 2.8650mm 0 40.7900mm 2.8650mm 0  ""]
-Rat[34.7900mm 8.5650mm 0 40.9189mm 667.65mil 0  ""]
+Rat[40.7900mm 8.5650mm 0 40.9189mm 667.65mil 0  ""]
 Rat[40.9684mm 82.1779mm 0 40.7900mm 88.5900mm 0  ""]
 Rat[40.7900mm 88.5900mm 0 38.7900mm 88.5900mm 0  ""]
 Rat[38.7900mm 88.5900mm 0 36.7900mm 88.5900mm 0  ""]
@@ -1970,7 +2018,7 @@ Layer(1 "top" "copper")
 	Line[116.0544mm 20.8770mm 116.0544mm 28.0759mm 10.00mil 20.00mil "clearline"]
 	Line[116.0544mm 20.8770mm 4611.00mil 780.00mil 10.00mil 20.00mil "clearline"]
 	Line[4611.00mil 630.00mil 4611.00mil 780.00mil 10.00mil 20.00mil "clearline"]
-	Line[4631.00mil 630.00mil 4631.00mil 1140.00mil 10.00mil 20.00mil "clearline"]
+	Line[4631.00mil 630.00mil 4631.00mil 1140.00mil 10.00mil 20.00mil "clearline,selected"]
 	Line[116.0544mm 30.5290mm 4631.00mil 1140.00mil 10.00mil 20.00mil "clearline"]
 	Line[116.0544mm 30.5290mm 116.0544mm 37.0929mm 10.00mil 20.00mil "clearline"]
 	Line[116.0544mm 39.9270mm 116.0544mm 46.1099mm 10.00mil 20.00mil "clearline"]
@@ -2198,19 +2246,19 @@ Layer(1 "top" "copper")
 	Line[16.9944mm 52.9501mm 16.9944mm 59.1330mm 10.00mil 20.00mil "clearline"]
 	Line[16.9944mm 59.1330mm 751.00mil 2410.00mil 10.00mil 20.00mil "clearline"]
 	Line[751.00mil 2410.00mil 751.00mil 3270.00mil 10.00mil 20.00mil "clearline"]
-	Line[13.9174mm 1935.00mil 113.1044mm 1935.00mil 40.00mil 20.00mil "found,clearline,connected"]
-	Line[113.1044mm 669.65mil 113.1044mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[104.0874mm 669.65mil 104.0874mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[95.0704mm 669.65mil 95.0704mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[86.0534mm 669.65mil 86.0534mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[77.0364mm 669.65mil 77.0364mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[68.0194mm 669.65mil 68.0194mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[59.0024mm 669.65mil 59.0024mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[49.9854mm 669.65mil 49.9854mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[40.9684mm 669.65mil 40.9684mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[31.9514mm 669.65mil 31.9514mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[22.9344mm 669.65mil 22.9344mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
-	Line[13.9174mm 669.65mil 13.9174mm 82.1779mm 40.00mil 20.00mil "found,clearline,connected"]
+	Line[13.9174mm 1935.00mil 113.1044mm 1935.00mil 40.00mil 20.00mil "clearline"]
+	Line[113.1044mm 669.65mil 113.1044mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[104.0874mm 669.65mil 104.0874mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[95.0704mm 669.65mil 95.0704mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[86.0534mm 669.65mil 86.0534mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[77.0364mm 669.65mil 77.0364mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[68.0194mm 669.65mil 68.0194mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[59.0024mm 669.65mil 59.0024mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[49.9854mm 669.65mil 49.9854mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[40.9684mm 669.65mil 40.9684mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[31.9514mm 669.65mil 31.9514mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[22.9344mm 669.65mil 22.9344mm 82.1779mm 40.00mil 20.00mil "clearline"]
+	Line[13.9174mm 669.65mil 13.9174mm 82.1779mm 40.00mil 20.00mil "clearline"]
 	Line[16.9944mm 750.35mil 16.9944mm 10.3106mm 10.00mil 20.00mil "clearline"]
 	Line[711.00mil 636.00mil 711.00mil 464.00mil 10.00mil 20.00mil "clearline"]
 	Line[731.00mil 625.00mil 731.00mil 519.00mil 10.00mil 20.00mil "clearline"]
@@ -2387,66 +2435,82 @@ NetList()
 	)
 	Net("out2-0" "(unknown)")
 	(
+		Connect("CONN2-11")
 		Connect("D17-2")
 	)
 	Net("out2-1" "(unknown)")
 	(
+		Connect("CONN2-12")
 		Connect("D18-2")
 	)
 	Net("out2-2" "(unknown)")
 	(
+		Connect("CONN2-9")
 		Connect("D19-2")
 	)
 	Net("out2-3" "(unknown)")
 	(
+		Connect("CONN2-10")
 		Connect("D20-2")
 	)
 	Net("out2-4" "(unknown)")
 	(
+		Connect("CONN2-15")
 		Connect("D21-2")
 	)
 	Net("out2-5" "(unknown)")
 	(
+		Connect("CONN2-16")
 		Connect("D22-2")
 	)
 	Net("out2-6" "(unknown)")
 	(
+		Connect("CONN2-13")
 		Connect("D23-2")
 	)
 	Net("out2-7" "(unknown)")
 	(
+		Connect("CONN2-14")
 		Connect("D24-2")
 	)
 	Net("out2-8" "(unknown)")
 	(
+		Connect("CONN2-19")
 		Connect("D25-2")
 	)
 	Net("out2-9" "(unknown)")
 	(
+		Connect("CONN2-20")
 		Connect("D26-2")
 	)
 	Net("out2-10" "(unknown)")
 	(
+		Connect("CONN2-17")
 		Connect("D27-2")
 	)
 	Net("out2-11" "(unknown)")
 	(
+		Connect("CONN2-18")
 		Connect("D28-2")
 	)
 	Net("out2-12" "(unknown)")
 	(
+		Connect("CONN2-23")
 		Connect("D29-2")
 	)
 	Net("out2-13" "(unknown)")
 	(
+		Connect("CONN2-24")
 		Connect("D30-2")
 	)
 	Net("out2-14" "(unknown)")
 	(
+		Connect("CONN2-21")
 		Connect("D31-2")
 	)
 	Net("out2-15" "(unknown)")
 	(
+		Connect("CONN2-22")
 		Connect("D32-2")
 	)
 	Net("out3-0" "(unknown)")
@@ -2531,66 +2595,82 @@ NetList()
 	)
 	Net("out4-0" "(unknown)")
 	(
+		Connect("CONN2-27")
 		Connect("D49-2")
 	)
 	Net("out4-1" "(unknown)")
 	(
+		Connect("CONN2-28")
 		Connect("D50-2")
 	)
 	Net("out4-2" "(unknown)")
 	(
+		Connect("CONN2-25")
 		Connect("D51-2")
 	)
 	Net("out4-3" "(unknown)")
 	(
+		Connect("CONN2-26")
 		Connect("D52-2")
 	)
 	Net("out4-4" "(unknown)")
 	(
+		Connect("CONN2-31")
 		Connect("D53-2")
 	)
 	Net("out4-5" "(unknown)")
 	(
+		Connect("CONN2-32")
 		Connect("D54-2")
 	)
 	Net("out4-6" "(unknown)")
 	(
+		Connect("CONN2-29")
 		Connect("D55-2")
 	)
 	Net("out4-7" "(unknown)")
 	(
+		Connect("CONN2-30")
 		Connect("D56-2")
 	)
 	Net("out4-8" "(unknown)")
 	(
+		Connect("CONN2-35")
 		Connect("D57-2")
 	)
 	Net("out4-9" "(unknown)")
 	(
+		Connect("CONN2-36")
 		Connect("D58-2")
 	)
 	Net("out4-10" "(unknown)")
 	(
+		Connect("CONN2-33")
 		Connect("D59-2")
 	)
 	Net("out4-11" "(unknown)")
 	(
+		Connect("CONN2-34")
 		Connect("D60-2")
 	)
 	Net("out4-12" "(unknown)")
 	(
+		Connect("CONN2-39")
 		Connect("D61-2")
 	)
 	Net("out4-13" "(unknown)")
 	(
+		Connect("CONN2-40")
 		Connect("D62-2")
 	)
 	Net("out4-14" "(unknown)")
 	(
+		Connect("CONN2-37")
 		Connect("D63-2")
 	)
 	Net("out4-15" "(unknown)")
 	(
+		Connect("CONN2-38")
 		Connect("D64-2")
 	)
 	Net("out5-0" "(unknown)")
@@ -2675,66 +2755,82 @@ NetList()
 	)
 	Net("out6-0" "(unknown)")
 	(
+		Connect("CONN2-43")
 		Connect("D81-2")
 	)
 	Net("out6-1" "(unknown)")
 	(
+		Connect("CONN2-44")
 		Connect("D82-2")
 	)
 	Net("out6-2" "(unknown)")
 	(
+		Connect("CONN2-41")
 		Connect("D83-2")
 	)
 	Net("out6-3" "(unknown)")
 	(
+		Connect("CONN2-42")
 		Connect("D84-2")
 	)
 	Net("out6-4" "(unknown)")
 	(
+		Connect("CONN2-47")
 		Connect("D85-2")
 	)
 	Net("out6-5" "(unknown)")
 	(
+		Connect("CONN2-48")
 		Connect("D86-2")
 	)
 	Net("out6-6" "(unknown)")
 	(
+		Connect("CONN2-45")
 		Connect("D87-2")
 	)
 	Net("out6-7" "(unknown)")
 	(
+		Connect("CONN2-46")
 		Connect("D88-2")
 	)
 	Net("out6-8" "(unknown)")
 	(
+		Connect("CONN2-51")
 		Connect("D89-2")
 	)
 	Net("out6-9" "(unknown)")
 	(
+		Connect("CONN2-52")
 		Connect("D90-2")
 	)
 	Net("out6-10" "(unknown)")
 	(
+		Connect("CONN2-49")
 		Connect("D91-2")
 	)
 	Net("out6-11" "(unknown)")
 	(
+		Connect("CONN2-50")
 		Connect("D92-2")
 	)
 	Net("out6-12" "(unknown)")
 	(
+		Connect("CONN2-55")
 		Connect("D93-2")
 	)
 	Net("out6-13" "(unknown)")
 	(
+		Connect("CONN2-56")
 		Connect("D94-2")
 	)
 	Net("out6-14" "(unknown)")
 	(
+		Connect("CONN2-53")
 		Connect("D95-2")
 	)
 	Net("out6-15" "(unknown)")
 	(
+		Connect("CONN2-54")
 		Connect("D96-2")
 	)
 	Net("Vcc" "(unknown)")
