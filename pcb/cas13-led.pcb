@@ -3,7 +3,7 @@
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
 
-PCB["" 5118.00mil 120.0000mm]
+PCB["" 112.0000mm 100.9000mm]
 
 Grid[0.4000mm 0.0000 0.0000 0]
 PolyArea[200000000.000000]
@@ -785,7 +785,7 @@ Symbol['~' 12.00mil]
 	SymbolLine[15.00mil 35.00mil 20.00mil 35.00mil 8.00mil]
 	SymbolLine[20.00mil 35.00mil 25.00mil 30.00mil 8.00mil]
 )
-Attribute("PCB::grid::unit" "mil")
+Attribute("PCB::grid::unit" "mm")
 Attribute("PCB::grid::size" "0.4000mm")
 
 Element["" "pin-header-2x32-smd" "CONN1" "XXX" 22.6900mm 4.1150mm -5.2000mm -0.8500mm 0 100 ""]
@@ -2879,24 +2879,27 @@ Layer(10 "top silk" "silk")
 )
 NetList()
 (
-	Net("GND" "(unknown)")
+	Net("+5V" "(unknown)")
 	(
 		Connect("CONN1-57")
-		Connect("CONN1-58")
 		Connect("CONN1-59")
-		Connect("CONN1-60")
 		Connect("CONN1-61")
-		Connect("CONN1-62")
 		Connect("CONN1-63")
+		Connect("CONN2-58")
+		Connect("CONN2-60")
+		Connect("CONN2-62")
+		Connect("CONN2-64")
+	)
+	Net("GND" "(unknown)")
+	(
+		Connect("CONN1-58")
+		Connect("CONN1-60")
+		Connect("CONN1-62")
 		Connect("CONN1-64")
 		Connect("CONN2-57")
-		Connect("CONN2-58")
 		Connect("CONN2-59")
-		Connect("CONN2-60")
 		Connect("CONN2-61")
-		Connect("CONN2-62")
 		Connect("CONN2-63")
-		Connect("CONN2-64")
 	)
 	Net("out1-0" "(unknown)")
 	(
