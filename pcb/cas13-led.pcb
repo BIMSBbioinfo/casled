@@ -860,960 +860,960 @@ Element["" "pin-header-2x32-smd" "CONN1" "XXX" 22.6900mm 4.1150mm -5.2000mm -0.8
 Element["" "xlamp" "D64" "unknown" 66.9408mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D63" "unknown" 66.9408mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D60" "unknown" 57.9238mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D59" "unknown" 57.9238mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D88" "unknown" 84.9748mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D87" "unknown" 84.9748mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D84" "unknown" 75.9578mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D83" "unknown" 75.9578mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D92" "unknown" 93.9918mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D91" "unknown" 93.9918mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D44" "unknown" 57.9238mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D57" "unknown" 57.9238mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D43" "unknown" 57.9238mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D58" "unknown" 57.9238mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D48" "unknown" 66.9408mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D61" "unknown" 66.9408mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D47" "unknown" 66.9408mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D62" "unknown" 66.9408mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D68" "unknown" 75.9578mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D81" "unknown" 75.9578mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D67" "unknown" 75.9578mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D82" "unknown" 75.9578mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D72" "unknown" 84.9748mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D85" "unknown" 84.9748mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D71" "unknown" 84.9748mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D86" "unknown" 84.9748mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D76" "unknown" 93.9918mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D89" "unknown" 93.9918mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D75" "unknown" 93.9918mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D90" "unknown" 93.9918mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D42" "unknown" 57.9238mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D41" "unknown" 57.9238mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D46" "unknown" 66.9408mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D45" "unknown" 66.9408mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D66" "unknown" 75.9578mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D65" "unknown" 75.9578mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D70" "unknown" 84.9748mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D69" "unknown" 84.9748mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D74" "unknown" 93.9918mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D73" "unknown" 93.9918mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D96" "unknown" 103.0088mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D95" "unknown" 103.0088mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D80" "unknown" 103.0088mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D93" "unknown" 103.0088mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D79" "unknown" 103.0088mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D94" "unknown" 103.0088mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D78" "unknown" 103.0088mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D77" "unknown" 103.0088mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D53" "unknown" 48.9068mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D38" "unknown" 48.9068mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D37" "unknown" 48.9068mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D56" "unknown" 48.9068mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D55" "unknown" 48.9068mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D40" "unknown" 48.9068mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D39" "unknown" 48.9068mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D54" "unknown" 48.9068mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D36" "unknown" 39.8898mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D34" "unknown" 39.8898mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D52" "unknown" 39.8898mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D51" "unknown" 39.8898mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D49" "unknown" 39.8898mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D35" "unknown" 39.8898mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D50" "unknown" 39.8898mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D33" "unknown" 39.8898mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D24" "unknown" 12.8388mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D8" "unknown" 12.8388mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D7" "unknown" 12.8388mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D23" "unknown" 12.8388mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D21" "unknown" 12.8388mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D22" "unknown" 12.8388mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D6" "unknown" 12.8388mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D5" "unknown" 12.8388mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D27" "unknown" 21.8558mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D12" "unknown" 21.8558mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D25" "unknown" 21.8558mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D26" "unknown" 21.8558mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D28" "unknown" 21.8558mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D11" "unknown" 21.8558mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D10" "unknown" 21.8558mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D9" "unknown" 21.8558mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D32" "unknown" 30.8728mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D31" "unknown" 30.8728mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D16" "unknown" 30.8728mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D29" "unknown" 30.8728mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D15" "unknown" 30.8728mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D30" "unknown" 30.8728mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D14" "unknown" 30.8728mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D13" "unknown" 30.8728mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D18" "unknown" 3.8218mm 63.6272mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D20" "unknown" 3.8218mm 81.6612mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D19" "unknown" 3.8218mm 72.6442mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D4" "unknown" 3.8218mm 45.5932mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D17" "unknown" 3.8218mm 54.6102mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D3" "unknown" 3.8218mm 36.5762mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D2" "unknown" 3.8218mm 27.5592mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
 Element["" "xlamp" "D1" "unknown" 3.8218mm 18.5422mm 0.0000 75.00mil 0 100 ""]
 (
 	Pad[0.0000 -49.21mil 0.0000 49.21mil 27.56mil 7.87mil 35.43mil "heat sink" "" "square"]
-	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
-	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 0.0000 "1" "1" "square"]
-	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 0.0000 "2" "2" "square,edge2"]
+	Pad[-61.02mil 40.35mil -55.12mil 40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil 40.35mil 61.02mil 40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
+	Pad[-61.02mil -40.35mil -55.12mil -40.35mil 45.28mil 0.0000 49.22mil "1" "1" "square"]
+	Pad[55.12mil -40.35mil 61.02mil -40.35mil 45.28mil 0.0000 49.22mil "2" "2" "square,edge2"]
 
 	)
 
