@@ -2226,10 +2226,10 @@ Layer(1 "top" "copper")
 	Line[104.4584mm 31.0880mm 106.0020mm 29.5444mm 10.00mil 20.00mil "clearline"]
 	Line[104.4584mm 37.6519mm 104.4584mm 31.0880mm 10.00mil 20.00mil "clearline"]
 	Line[101.4955mm 14.5290mm 104.4838mm 17.5173mm 10.00mil 20.00mil "clearline"]
-	Line[95.4668mm 691.78mil 3759.60mil 17.5443mm 10.00mil 20.00mil "clearline"]
+	Line[95.4668mm 691.78mil 3759.60mil 690.72mil 10.00mil 20.00mil "clearline"]
 	Line[95.4668mm 19.5671mm 95.4668mm 691.78mil 10.00mil 20.00mil "clearline"]
 	Line[94.5105mm 16.5610mm 95.4668mm 17.5173mm 10.00mil 20.00mil "clearline"]
-	Line[86.4498mm 17.5173mm 3402.10mil 17.4808mm 10.00mil 20.00mil "clearline"]
+	Line[86.4498mm 17.5173mm 3402.10mil 688.22mil 10.00mil 20.00mil "clearline"]
 	Line[86.4498mm 19.5671mm 86.4498mm 17.5173mm 10.00mil 20.00mil "clearline"]
 	Line[85.3665mm 16.4340mm 86.4498mm 17.5173mm 10.00mil 20.00mil "clearline"]
 	Line[79.6154mm 38.4050mm 79.6154mm 15.7014mm 10.00mil 20.00mil "clearline"]
@@ -2871,11 +2871,11 @@ Layer(10 "top silk" "silk")
 	Line[71.0810mm 15.5196mm 36.4354mm 15.5196mm 10.00mil 20.00mil "clearline"]
 	Line[36.4000mm 15.5196mm 35.6480mm 15.5196mm 10.00mil 20.00mil "clearline"]
 	Text[87.2000mm 3.6000mm 0 100 "2018-01-21" "clearline"]
-	Text[87.2000mm 7.6000mm 0 100 "Ricardo Wurmus" "clearline"]
-	Text[93.2000mm 9.6000mm 0 100 "CasLED" "clearline"]
 	Text[2.0000mm 7.6000mm 0 100 "LED +" "clearline"]
 	Text[88.0000mm 91.6000mm 0 100 "+5V" "clearline"]
 	Text[88.4000mm 96.0000mm 0 100 "GND" "clearline"]
+	Text[83.6000mm 7.6000mm 0 144 "Ricardo Wurmus" "clearline"]
+	Text[92.4000mm 10.0000mm 0 144 "CasLED" "clearline"]
 )
 NetList()
 (
