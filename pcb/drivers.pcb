@@ -1035,7 +1035,7 @@ Element["" "21-0042B_24" "U2" "unknown" 2700.00mil 800.00mil 0.0000 250.00mil 0 
 	Pad[-213.00mil -275.00mil -156.00mil -275.00mil 21.00mil 20.00mil 29.00mil "1" "1" "square"]
 	Pad[-213.00mil -225.00mil -156.00mil -225.00mil 21.00mil 20.00mil 29.00mil "2" "2" "square"]
 	Pad[-213.00mil -175.00mil -156.00mil -175.00mil 21.00mil 20.00mil 29.00mil "3" "3" "square"]
-	Pad[-213.00mil -125.00mil -156.00mil -125.00mil 21.00mil 20.00mil 29.00mil "4" "4" "found,square"]
+	Pad[-213.00mil -125.00mil -156.00mil -125.00mil 21.00mil 20.00mil 29.00mil "4" "4" "square"]
 	Pad[-213.00mil -75.00mil -156.00mil -75.00mil 21.00mil 20.00mil 29.00mil "5" "5" "square"]
 	Pad[-213.00mil -25.00mil -156.00mil -25.00mil 21.00mil 20.00mil 29.00mil "6" "6" "square"]
 	Pad[-213.00mil 25.00mil -156.00mil 25.00mil 21.00mil 20.00mil 29.00mil "7" "7" "square"]
@@ -1070,7 +1070,7 @@ Element["" "21-0042B_24" "U6" "unknown" 4000.00mil 900.00mil 0.0000 250.00mil 0 
 	Pad[-213.00mil -275.00mil -156.00mil -275.00mil 21.00mil 20.00mil 29.00mil "1" "1" "square"]
 	Pad[-213.00mil -225.00mil -156.00mil -225.00mil 21.00mil 20.00mil 29.00mil "2" "2" "square"]
 	Pad[-213.00mil -175.00mil -156.00mil -175.00mil 21.00mil 20.00mil 29.00mil "3" "3" "square"]
-	Pad[-213.00mil -125.00mil -156.00mil -125.00mil 21.00mil 20.00mil 29.00mil "4" "4" "found,square"]
+	Pad[-213.00mil -125.00mil -156.00mil -125.00mil 21.00mil 20.00mil 29.00mil "4" "4" "square"]
 	Pad[-213.00mil -75.00mil -156.00mil -75.00mil 21.00mil 20.00mil 29.00mil "5" "5" "square"]
 	Pad[-213.00mil -25.00mil -156.00mil -25.00mil 21.00mil 20.00mil 29.00mil "6" "6" "square"]
 	Pad[-213.00mil 25.00mil -156.00mil 25.00mil 21.00mil 20.00mil 29.00mil "7" "7" "square"]
@@ -1105,7 +1105,7 @@ Element["" "21-0042B_24" "U4" "unknown" 3300.00mil 800.00mil 0.0000 250.00mil 0 
 	Pad[-213.00mil -275.00mil -156.00mil -275.00mil 21.00mil 20.00mil 29.00mil "1" "1" "square"]
 	Pad[-213.00mil -225.00mil -156.00mil -225.00mil 21.00mil 20.00mil 29.00mil "2" "2" "square"]
 	Pad[-213.00mil -175.00mil -156.00mil -175.00mil 21.00mil 20.00mil 29.00mil "3" "3" "square"]
-	Pad[-213.00mil -125.00mil -156.00mil -125.00mil 21.00mil 20.00mil 29.00mil "4" "4" "found,square"]
+	Pad[-213.00mil -125.00mil -156.00mil -125.00mil 21.00mil 20.00mil 29.00mil "4" "4" "square"]
 	Pad[-213.00mil -75.00mil -156.00mil -75.00mil 21.00mil 20.00mil 29.00mil "5" "5" "square"]
 	Pad[-213.00mil -25.00mil -156.00mil -25.00mil 21.00mil 20.00mil 29.00mil "6" "6" "square"]
 	Pad[-213.00mil 25.00mil -156.00mil 25.00mil 21.00mil 20.00mil 29.00mil "7" "7" "square"]
@@ -1140,7 +1140,7 @@ Element["" "21-0042B_24" "U1" "unknown" 72.0000mm 83.0000mm -250.00mil 0.0000 3 
 	Pad[275.00mil -213.00mil 275.00mil -156.00mil 21.00mil 20.00mil 29.00mil "1" "1" "square"]
 	Pad[225.00mil -213.00mil 225.00mil -156.00mil 21.00mil 20.00mil 29.00mil "2" "2" "square"]
 	Pad[175.00mil -213.00mil 175.00mil -156.00mil 21.00mil 20.00mil 29.00mil "3" "3" "square"]
-	Pad[125.00mil -213.00mil 125.00mil -156.00mil 21.00mil 20.00mil 29.00mil "4" "4" "found,square,connected"]
+	Pad[125.00mil -213.00mil 125.00mil -156.00mil 21.00mil 20.00mil 29.00mil "4" "4" "square"]
 	Pad[75.00mil -213.00mil 75.00mil -156.00mil 21.00mil 20.00mil 29.00mil "5" "5" "square"]
 	Pad[25.00mil -213.00mil 25.00mil -156.00mil 21.00mil 20.00mil 29.00mil "6" "6" "square"]
 	Pad[-25.00mil -213.00mil -25.00mil -156.00mil 21.00mil 20.00mil 29.00mil "7" "7" "square"]
@@ -1175,7 +1175,7 @@ Element["" "21-0042B_24" "U3" "unknown" 89.2850mm 82.9863mm -250.00mil 0.0000 3 
 	Pad[275.00mil -213.00mil 275.00mil -156.00mil 21.00mil 20.00mil 29.00mil "1" "1" "square"]
 	Pad[225.00mil -213.00mil 225.00mil -156.00mil 21.00mil 20.00mil 29.00mil "2" "2" "square"]
 	Pad[175.00mil -213.00mil 175.00mil -156.00mil 21.00mil 20.00mil 29.00mil "3" "3" "square"]
-	Pad[125.00mil -213.00mil 125.00mil -156.00mil 21.00mil 20.00mil 29.00mil "4" "4" "found,square"]
+	Pad[125.00mil -213.00mil 125.00mil -156.00mil 21.00mil 20.00mil 29.00mil "4" "4" "square"]
 	Pad[75.00mil -213.00mil 75.00mil -156.00mil 21.00mil 20.00mil 29.00mil "5" "5" "square"]
 	Pad[25.00mil -213.00mil 25.00mil -156.00mil 21.00mil 20.00mil 29.00mil "6" "6" "square"]
 	Pad[-25.00mil -213.00mil -25.00mil -156.00mil 21.00mil 20.00mil 29.00mil "7" "7" "square"]
@@ -1210,7 +1210,7 @@ Element["" "21-0042B_24" "U5" "unknown" 106.9400mm 82.9400mm -250.00mil 0.0000 3
 	Pad[275.00mil -213.00mil 275.00mil -156.00mil 21.00mil 20.00mil 29.00mil "1" "1" "square"]
 	Pad[225.00mil -213.00mil 225.00mil -156.00mil 21.00mil 20.00mil 29.00mil "2" "2" "square"]
 	Pad[175.00mil -213.00mil 175.00mil -156.00mil 21.00mil 20.00mil 29.00mil "3" "3" "square"]
-	Pad[125.00mil -213.00mil 125.00mil -156.00mil 21.00mil 20.00mil 29.00mil "4" "4" "found,square"]
+	Pad[125.00mil -213.00mil 125.00mil -156.00mil 21.00mil 20.00mil 29.00mil "4" "4" "square"]
 	Pad[75.00mil -213.00mil 75.00mil -156.00mil 21.00mil 20.00mil 29.00mil "5" "5" "square"]
 	Pad[25.00mil -213.00mil 25.00mil -156.00mil 21.00mil 20.00mil 29.00mil "6" "6" "square"]
 	Pad[-25.00mil -213.00mil -25.00mil -156.00mil 21.00mil 20.00mil 29.00mil "7" "7" "square"]
@@ -1285,7 +1285,6 @@ Rat[92.4600mm 77.5761mm 0 110.1150mm 77.5298mm 0  ""]
 Rat[92.4600mm 77.5761mm 0 3787.00mil 775.00mil 0  ""]
 Rat[3787.00mil 775.00mil 0 3087.00mil 675.00mil 0  ""]
 Rat[3087.00mil 675.00mil 0 2487.00mil 675.00mil 0  ""]
-Rat[69.0000mm 74.5000mm 0 105.0350mm 77.5298mm 0  ""]
 Rat[65.8200mm 9.6200mm 5 2487.00mil 725.00mil 0  ""]
 Rat[65.8200mm 300.00mil 5 2487.00mil 775.00mil 0  ""]
 Rat[63.8200mm 9.6200mm 5 2487.00mil 825.00mil 0  ""]
@@ -1329,6 +1328,7 @@ Rat[91.8200mm 300.00mil 5 3513.00mil 725.00mil 0  ""]
 Rat[104.9600mm 71.6600mm 5 108.8450mm 77.5298mm 0  ""]
 Rat[104.9600mm 2900.00mil 5 107.5750mm 77.5298mm 0  ""]
 Rat[102.9600mm 71.6600mm 5 106.3050mm 77.5298mm 0  ""]
+Rat[102.9600mm 2900.00mil 5 105.0350mm 77.5298mm 0  ""]
 Rat[106.9600mm 2900.00mil 5 99.9550mm 88.3502mm 0  ""]
 Rat[106.9600mm 71.6600mm 5 101.2250mm 88.3502mm 0  ""]
 Rat[108.9600mm 2900.00mil 5 102.4950mm 88.3502mm 0  ""]
@@ -1673,7 +1673,6 @@ NetList()
 	(
 		Connect("CONN1-11")
 		Connect("U1-10")
-		Connect("U5-8")
 	)
 	Net("out1-6" "(unknown)")
 	(
@@ -1983,6 +1982,7 @@ NetList()
 	Net("out5-3" "(unknown)")
 	(
 		Connect("CONN1-45")
+		Connect("U5-8")
 	)
 	Net("out5-4" "(unknown)")
 	(
