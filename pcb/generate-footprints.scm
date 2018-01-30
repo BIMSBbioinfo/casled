@@ -27,6 +27,12 @@
           (exact->inexact rx2)
           (exact->inexact ry2) thickness clearance mask name number sflags))
 
+(define* (pin #:key rx ry thickness clearance mask drill name number sflags)
+  (format #f  "  Pin[~amm ~amm ~amm ~amm ~amm ~amm ~s ~s ~s]\n"
+          (exact->inexact rx)
+          (exact->inexact ry)
+          thickness clearance mask drill name number sflags))
+
 (define (make-dual-row-connector pins-per-row)
   "Generate a footprint for a 2mm pitch surface mount pin header with
 two rows of PINS-PER-ROW pins."
@@ -62,5 +68,38 @@ two rows of PINS-PER-ROW pins."
                            #:mask 0
                            #:name (number->string pin)
                            #:number (number->string pin)
+                           #:sflags "square")))
+                  pins))))
+
+(define (make-dual-row-connector-holes pins-per-row)
+  "Generate a footprint for a 2mm pitch through-hole pin header with
+two rows of PINS-PER-ROW pins."
+  (define thickness 1)
+  (define hole-diameter 0.66)
+  (define pitch 2)
+  (define x-start 0)
+  (define upper-y-start 1)
+  (define lower-y-start -1)
+
+  (element #:description "DIL pin header"
+           #:text-y 25000
+           #:pads
+           (let ((pins (iota (* 2 pins-per-row) 1)))
+             (map (lambda (n)
+                    (let ((x (+ x-start (* (- (/ (if (odd? n)
+                                                     (+ n 1)
+                                                     n) 2) 1)
+                                           pitch)))
+                          (y (if (odd? n)
+                                  upper-y-start
+                                  lower-y-start)))
+                      (pin #:rx x
+                           #:ry y
+                           #:thickness thickness
+                           #:clearance 0.1
+                           #:mask thickness
+                           #:drill hole-diameter
+                           #:name (number->string n)
+                           #:number (number->string n)
                            #:sflags "square")))
                   pins))))
