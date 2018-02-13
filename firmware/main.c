@@ -8,6 +8,8 @@
 #include <util/setbaud.h>
 
 void init () {
+  DDRB = 0xFF;  // all outputs
+  PORTB = 0x00; // all low
 }
 
 int main (void) {
