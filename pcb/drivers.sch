@@ -1739,7 +1739,7 @@ device=CONNECTOR_3
 T 47500 42400 5 10 1 1 0 0 1
 refdes=CONN3
 T 47500 41300 5 10 0 0 0 0 1
-footprint=CONN 3 1
+footprint=CONNECTOR 3 1
 }
 C 49200 41400 1 0 0 io-1.sym
 {
@@ -1769,7 +1769,7 @@ refdes=CONN4
 T 47300 48750 5 10 0 0 0 0 1
 device=CONNECTOR_1
 T 47300 48950 5 10 0 0 0 0 1
-footprint=SIP1N
+footprint=CONNECTOR 1 1
 }
 C 40300 43700 1 180 0 connector1-2.sym
 {
@@ -1778,5 +1778,5 @@ refdes=CONN5
 T 40000 42850 5 10 0 0 180 0 1
 device=CONNECTOR_1
 T 40300 43700 5 10 0 0 0 0 1
-footprint=SIP1N
+footprint=CONNECTOR 1 1
 }
