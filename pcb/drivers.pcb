@@ -801,7 +801,6 @@ Via[1060.00mil 560.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[28.1927mm 15.2473mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[1160.00mil 560.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[1210.00mil 600.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
-Via[1260.00mil 560.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[1310.00mil 600.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[1655.00mil 560.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[1705.00mil 600.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
@@ -822,6 +821,7 @@ Via[17.2630mm 13.4710mm 60.00mil 20.00mil 0.0000 35.00mil "" ""]
 Via[875.00mil 385.00mil 60.00mil 20.00mil 0.0000 35.00mil "" ""]
 Via[1360.00mil 560.00mil 60.00mil 20.00mil 0.0000 35.00mil "" ""]
 Via[1550.00mil 385.00mil 60.00mil 20.00mil 0.0000 35.00mil "" ""]
+Via[1260.00mil 560.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 
 Element["hidename" "pin-header-2x32-dil" "CONN1" "XXX" 1.0480mm 2.0480mm 22.9560mm 27.9250mm 0 100 ""]
 (
@@ -1079,9 +1079,9 @@ Element["hidename" "21-0042B_24" "U3" "unknown" 31.3730mm 12.4633mm -250.00mil 0
 
 Element["" "Jumper, i.e. single row headers" "" "JUMPER3" 2440.00mil 400.00mil 110.00mil -50.00mil 3 100 ""]
 (
-	Pin[0.0000 0.0000 60.00mil 30.00mil 66.00mil 38.00mil "1" "1" "square"]
-	Pin[0.0000 100.00mil 60.00mil 30.00mil 66.00mil 38.00mil "2" "2" ""]
-	Pin[0.0000 200.00mil 60.00mil 30.00mil 66.00mil 38.00mil "3" "3" ""]
+	Pin[0.0000 0.0000 60.00mil 30.00mil 66.00mil 38.00mil "1" "1" "square,warn"]
+	Pin[0.0000 100.00mil 60.00mil 30.00mil 66.00mil 38.00mil "2" "2" "warn"]
+	Pin[0.0000 200.00mil 60.00mil 30.00mil 66.00mil 38.00mil "3" "3" "warn"]
 	ElementLine [-50.00mil -50.00mil -50.00mil 250.00mil 10.00mil]
 	ElementLine [-50.00mil 250.00mil 50.00mil 250.00mil 10.00mil]
 	ElementLine [50.00mil 250.00mil 50.00mil -50.00mil 10.00mil]
@@ -1443,7 +1443,6 @@ Layer(2 "ground" "copper")
 	Line[1500.00mil 140.00mil 1500.00mil 2.1000mm 10.00mil 20.00mil "clearline"]
 	Line[1500.00mil 2.1000mm 37.0480mm 1.0480mm 10.00mil 20.00mil "clearline"]
 	Line[39.0480mm 3.5804mm 39.0480mm 120.00mil 10.00mil 20.00mil "clearline"]
-	Line[33.2780mm 16.3367mm 1310.00mil 643.02mil 10.00mil 20.00mil "clearline"]
 	Line[1310.00mil 600.00mil 1310.00mil 365.00mil 10.00mil 20.00mil "clearline"]
 	Line[40.0778mm 2.1550mm 39.0480mm 1.1252mm 10.00mil 20.00mil "clearline"]
 	Line[39.0480mm 1.1252mm 39.0480mm 1.0480mm 10.00mil 20.00mil "clearline"]
@@ -1492,7 +1491,6 @@ Layer(2 "ground" "copper")
 	Line[1260.00mil 340.00mil 1280.00mil 320.00mil 10.00mil 20.00mil "clearline"]
 	Line[1280.00mil 320.00mil 34.5004mm 320.00mil 10.00mil 20.00mil "clearline"]
 	Line[34.5004mm 320.00mil 39.0480mm 3.5804mm 10.00mil 20.00mil "clearline"]
-	Line[1260.00mil 575.00mil 1260.00mil 340.00mil 10.00mil 20.00mil "clearline"]
 	Line[1210.00mil 315.00mil 1230.00mil 295.00mil 10.00mil 20.00mil "clearline"]
 	Line[1230.00mil 295.00mil 1345.00mil 295.00mil 10.00mil 20.00mil "clearline"]
 	Line[2005.00mil 330.00mil 2160.00mil 175.00mil 10.00mil 20.00mil "clearline"]
@@ -1529,6 +1527,7 @@ Layer(2 "ground" "copper")
 	Line[57.0480mm 120.00mil 57.0480mm 8.2800mm 40.00mil 20.00mil "clearline"]
 	Line[57.0480mm 8.2800mm 2320.00mil 400.00mil 40.00mil 20.00mil "clearline"]
 	Line[2320.00mil 400.00mil 2440.00mil 400.00mil 40.00mil 20.00mil "clearline"]
+	Line[1260.00mil 340.00mil 1260.00mil 560.00mil 10.00mil 20.00mil "clearline"]
 )
 Layer(3 "signal2" "copper")
 (
