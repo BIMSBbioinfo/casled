@@ -28,6 +28,7 @@ CFLAGS = -mmcu=$(MCU) -O$(OPTLEVEL) -fshort-enums \
 # main target
 all: $(TARGET_OUT)
 
+LDFLAGS = -mmcu=${MCU} -Wl,--gc-sections
 # make output
 $(TARGET_OUT): $(O_FILES) $(H_SRC)
 	$(CC) $(LDFLAGS) -o $@ $(O_FILES) && \
