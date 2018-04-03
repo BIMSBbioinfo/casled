@@ -1,5 +1,5 @@
 MCU = atmega32
-F_CPU = 10000000UL
+F_CPU = 16000000UL
 
 CC = avr-gcc
 OBJCOPY = avr-objcopy
