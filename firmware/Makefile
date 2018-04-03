@@ -45,3 +45,6 @@ $(TARGET_HEX): $(TARGET_OUT)
 program: $(TARGET_HEX)
 	$(PROG) $(PROGFLAGS) -U flash:w:$(TARGET_HEX)
 
+
+clean:
+	rm -f $(TARGET_HEX) $(TARGET_OUT) $(O_FILES)
