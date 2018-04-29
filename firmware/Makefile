@@ -22,13 +22,20 @@ OPTLEVEL = s
 C_SRC = main.c
 O_FILES = $(subst .c,.o,$(C_SRC))
 
-CFLAGS = -mmcu=$(MCU) -O$(OPTLEVEL) -fshort-enums \
-	-funsigned-bitfields -funsigned-char -Wall -DF_CPU=$(F_CPU)
+CFLAGS = -g -mmcu=$(MCU) -O$(OPTLEVEL)  \
+	-ffunction-sections -fdata-sections \
+	-Wall -DF_CPU=$(F_CPU)
 
 # main target
 all: $(TARGET_OUT)
 
 LDFLAGS = -mmcu=${MCU} -Wl,--gc-sections
+
+# TODO: This is only necessary because the avr-toolchain package in
+# Guix has a bug.
+CFLAGS += -I${HOME}/.guix-profile/avr/include
+LDFLAGS += -L${HOME}/.guix-profile/avr/lib/avr5 -L${HOME}/.guix-profile/avr/lib -B${HOME}/.guix-profile/avr/lib
+
 # make output
 $(TARGET_OUT): $(O_FILES) $(H_SRC)
 	$(CC) $(LDFLAGS) -o $@ $(O_FILES) && \
