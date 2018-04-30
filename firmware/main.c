@@ -15,7 +15,7 @@
 Click the speaker and toggle the on-board indicator LEDs to indicate
 the passing of time.
 */
-#define TICK PORTD^=0xFF; PORTC++;
+#define TICK PORTD ^= 1<<PD7; PORTC++;
 
 /* Pins used for serial interface */
 #define DD_SCK    PB7 // clock (blue)
