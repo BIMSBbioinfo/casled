@@ -243,8 +243,8 @@ uint8_t* PROGRAMS[LEDS] = {
   C3, D3, A3, B3,
   C4, D4, A4, B4,
 
-  B6, A6, BROKEN, C6,
-  B5, A5, BROKEN, C5,
+  B6, A6, D6, C6,
+  B5, A5, D5, C5,
 
   C7, D7, A7, B7,
   C8, D8, A8, B8,
