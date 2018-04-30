@@ -267,8 +267,10 @@ void spi_init () {
 /* Send a byte over SPI and wait for completion. */
 void spi_transmit (uint8_t data) {
   SPDR = data;
+  uint8_t timeout = 255;
   // Wait for transmission completion
-  while (!(SPSR & (1<<SPIF)));
+  while (!(SPSR & (1<<SPIF)) && (timeout > 0))
+    timeout--;
 }
 
 /*
