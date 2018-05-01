@@ -27,9 +27,9 @@ the passing of time.
 internal state of the shift registers of the driver chips is pushed to
 the LED outputs on a falling edge (APPLY).
 */
-#define LOAD_PIN PB0 // load enable (green)
-#define APPLY (PORTB &= ~(1<<LOAD_PIN))
-#define LOAD  (PORTB |= (1<<LOAD_PIN))
+#define LOAD_PIN PD0 // load enable (green)
+#define APPLY (PORTD &= ~(1<<LOAD_PIN))
+#define LOAD  (PORTD |= (1<<LOAD_PIN))
 
 /*
 There are 6 LED driver chips with 16 outputs each, so we need to
@@ -180,7 +180,7 @@ void prog_eval () {
 
 void init (void) {
   spi_init ();
-  DDRD = 0xFF;  // all outputs (for speaker)
+  DDRD = 0xFF;  // all outputs (for speaker and "load enable")
   DDRC = 0xFF;  // all outputs
   PORTC = 0x00; // all activity indicator LEDs on
 
