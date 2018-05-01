@@ -20,6 +20,7 @@ HEXFORMAT = ihex
 OPTLEVEL = s
 
 C_SRC = main.c
+H_SRC = progs.h
 O_FILES = $(subst .c,.o,$(C_SRC))
 
 CFLAGS = -g -mmcu=$(MCU) -O$(OPTLEVEL)  \
@@ -33,7 +34,7 @@ LDFLAGS = -mmcu=${MCU} -Wl,--gc-sections
 
 # TODO: This is only necessary because the avr-toolchain package in
 # Guix has a bug.
-CFLAGS += -I${HOME}/.guix-profile/avr/include
+CFLAGS += -I${HOME}/.guix-profile/avr/include -I.
 LDFLAGS += -L${HOME}/.guix-profile/avr/lib/avr5 -L${HOME}/.guix-profile/avr/lib -B${HOME}/.guix-profile/avr/lib
 
 # make output
@@ -46,7 +47,7 @@ $(TARGET_HEX): $(TARGET_OUT)
 	$(OBJCOPY) -j .text -j .data -O $(HEXFORMAT) $< $@
 
 # objects from C files
-%.o : %.c
+%.o : %.c $(H_SRC)
 	$(CC) $(CFLAGS) -o $@ -c $<
 
 # program target
