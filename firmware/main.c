@@ -110,9 +110,9 @@ uint8_t* PROGRAMS[LEDS] = {
 /* Initialize SPI interface. */
 void spi_init () {
   // Latch, MOSI, and SCK are outputs, all others are inputs
-  DDR_SPI = (1<<LOAD_PIN)|(1<<DD_MOSI)|(1<<DD_SCK);
-  // Enable SPI as Master, clock rate is fck/16
-  SPCR = (1<<SPE)|(1<<MSTR)|(1<<SPR0);
+  DDR_SPI = (1<<DD_MOSI)|(1<<DD_SCK);
+  // Enable SPI as Master, clock rate is fck/128
+  SPCR = (1<<SPE)|(1<<MSTR)|(1<<SPR1)|(1<<SPR0);
 }
 
 /* Send a byte over SPI and wait for completion. */
