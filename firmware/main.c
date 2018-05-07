@@ -25,11 +25,13 @@ the passing of time.
 /*
 "Load enable" is connected to the LE pin of the LED drivers.  The
 internal state of the shift registers of the driver chips is pushed to
-the LED outputs on a falling edge (APPLY).
+the LED outputs on a falling edge and held as long as LE is held low
+(HOLD).
 */
-#define LOAD_PIN PD0 // load enable (green)
-#define APPLY (PORTD &= ~(1<<LOAD_PIN))
-#define LOAD  (PORTD |= (1<<LOAD_PIN))
+#define LOAD_PIN PB4 // load enable (green)
+#define HOLD (PORTB &= ~(1<<LOAD_PIN))
+#define LOAD (PORTB |= (1<<LOAD_PIN))
+
 
 /*
 There are 6 LED driver chips with 16 outputs each, so we need to
@@ -110,18 +112,17 @@ uint8_t* PROGRAMS[LEDS] = {
 /* Initialize SPI interface. */
 void spi_init () {
   // Latch, MOSI, and SCK are outputs, all others are inputs
-  DDR_SPI = (1<<DD_MOSI)|(1<<DD_SCK);
+  DDR_SPI = (1<<LOAD_PIN)|(1<<DD_MOSI)|(1<<DD_SCK);
   // Enable SPI as Master, clock rate is fck/128
-  SPCR = (1<<SPE)|(1<<MSTR)|(1<<SPR1)|(1<<SPR0);
+  //SPCR = (1<<SPE)|(1<<MSTR)|(1<<SPI2X)|(0<<SPR1)|(0<<SPR0);
+  SPCR = (1<<SPE)|(1<<MSTR)|(0<<SPI2X)|(1<<SPR1)|(1<<SPR0);
 }
 
 /* Send a byte over SPI and wait for completion. */
 void spi_transmit (uint8_t data) {
   SPDR = data;
-  uint8_t timeout = 255;
   // Wait for transmission completion
-  while (!(SPSR & (1<<SPIF)) && (timeout > 0))
-    timeout--;
+  while (!(SPSR & (1<<SPIF)));
 }
 
 /*
@@ -171,10 +172,9 @@ void prog_eval () {
     }
 
   /* Transmit new state for all LEDs */
-  LOAD;
   for (uint8_t n = 0; n < LED_BYTES; n++)
     spi_transmit (bytes[n]);
-  APPLY;
+  LOAD; _delay_ms(10.0); HOLD;
   TICK;
 }
 
@@ -185,10 +185,9 @@ void init (void) {
   PORTC = 0x00; // all activity indicator LEDs on
 
   /* Turn all external LEDs off initially */
-  LOAD;
   for (uint8_t n = 0; n < LED_BYTES; n++)
     spi_transmit (0x00);
-  APPLY;
+  LOAD; _delay_ms(1000.0); HOLD;
 
   /* Initialize LED programs and associated state */
   for (uint8_t i = 0; i < LEDS; i++)
