@@ -200,6 +200,18 @@ void init (void) {
 int main (void) {
   init ();
 
+  uint8_t p = 0;
+  while (p < 40)
+    {
+      TCCR2 = (1<<FOC2)|(1<<WGM21)|(1<<COM20);
+      //TCNT2 = 0;
+      _delay_ms(20.0);
+      OCR2 = p++;
+      TCCR2 |= (1<<CS22)|(1<<CS21)|(1<<CS20);
+      _delay_ms(9.0);
+    }
+  TCCR2 = 0;
+
   _delay_ms(1000.0);
   while (1) {
     prog_eval ();
