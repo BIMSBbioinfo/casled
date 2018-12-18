@@ -23,7 +23,7 @@ C_SRC = main.c
 H_SRC = progs.h
 O_FILES = $(subst .c,.o,$(C_SRC))
 
-CFLAGS = -g -mmcu=$(MCU) -O$(OPTLEVEL)  \
+CFLAGS = -g -std=c99 -mmcu=$(MCU) -O$(OPTLEVEL)  \
 	-ffunction-sections -fdata-sections \
 	-Wall -DF_CPU=$(F_CPU)
 
