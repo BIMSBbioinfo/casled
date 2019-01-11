@@ -1,0 +1,19 @@
+Wiring up the board is a bit challenging.
+
+The board has a grey data cable and a black power cable.  The data
+cable has three signals: red, blue, and green.  All other wires should
+be tied to GND.
+
+Connect the header with the three signals to the micro controller
+board on PORTB.  The green wire should be right next to the cutout,
+towards the edge of the board.  Red and blue face inward, towards the
+controller chip.
+
+The power cable has three wires:
+
+- yellow/green for GND
+- blue for +5V
+- brown for +8V (or +9V if you can stand the heat)
+
+The lab power supply has a resistance change detector.  Disable it in
+the “Setup” screen by switching “RRCd” from “YES” to “NO”.
