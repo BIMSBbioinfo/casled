@@ -11,9 +11,11 @@ controller chip.
 
 The power cable has three wires:
 
-- yellow/green for GND
-- blue for +5V
-- brown for +8V (or +9V if you can stand the heat)
+- yellow/green for GND (at the power supply)
+- blue for +5V (get from micro controller board)
+- brown for +8V (or +9V if you can stand the heat), from power supply
+
+Attach the micro controller wires to the power supply.
 
 The lab power supply has a resistance change detector.  Disable it in
 the “Setup” screen by switching “RRCd” from “YES” to “NO”.
